@@ -1,3 +1,5 @@
+require('./db');
+require('./db');
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
@@ -141,3 +143,366 @@ app.get("/dashboard/feed", (req, res) => {
 app.listen(3000, () => {
     console.log("💚⚡ CANCAN HQ listening on port 3000");
 });
+/* -------------------------------------------
+   CANCAN — Supabase Civic Organ Routes
+   -------------------------------------------
+   Adds:
+   - /ping-db
+   - /event
+   - /cleanup
+   - /heartbeat
+   - /metric
+   ------------------------------------------- */
+
+const client = require("./db");
+
+// Ping DB — confirms Supabase connection
+app.get("/ping-db", async (req, res) => {
+  try {
+    const result = await client.query("SELECT NOW()");
+    res.json({ ok: true, time: result.rows[0].now });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// Events spine — logs organism events
+app.post("/event", async (req, res) => {
+  const { type, source, payload } = req.body;
+
+  try {
+    const result = await client.query(
+      "INSERT INTO events (type, source, payload) VALUES ($1, $2, $3) RETURNING *",
+      [type, source, payload]
+    );
+    res.json({ ok: true, event: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// Cleanup organ — logs cleanup actions
+app.post("/cleanup", async (req, res) => {
+  const { block_id, volunteer_id, items_collected, notes } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO cleanups (block_id, volunteer_id, items_collected, notes)
+       VALUES ($1, $2, $3, $4)
+       RETURNING *`,
+      [block_id, volunteer_id, items_collected, notes]
+    );
+    res.json({ ok: true, cleanup: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// Heartbeat organ — logs organism pulse
+app.post("/heartbeat", async (req, res) => {
+  const { module, status, message } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO heartbeat_logs (module, status, message)
+       VALUES ($1, $2, $3)
+       RETURNING *`,
+      [module, status, message]
+    );
+    res.json({ ok: true, heartbeat: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// Metrics organ — logs dashboard metrics
+app.post("/metric", async (req, res) => {
+  const { metric, value, metadata } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO metrics (metric, value, metadata)
+       VALUES ($1, $2, $3)
+       RETURNING *`,
+      [metric, value, metadata]
+    );
+    res.json({ ok: true, metric: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+
+/* -------------------------------------------
+   CANCAN — Supabase Civic Organ Routes
+   -------------------------------------------
+   Adds:
+   - /ping-db
+   - /event
+   - /cleanup
+   - /heartbeat
+   - /metric
+   ------------------------------------------- */
+
+const client = require("./db");
+
+// Ping DB — confirms Supabase connection
+app.get("/ping-db", async (req, res) => {
+  try {
+    const result = await client.query("SELECT NOW()");
+    res.json({ ok: true, time: result.rows[0].now });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// Events spine — logs organism events
+app.post("/event", async (req, res) => {
+  const { type, source, payload } = req.body;
+
+  try {
+    const result = await client.query(
+      "INSERT INTO events (type, source, payload) VALUES ($1, $2, $3) RETURNING *",
+      [type, source, payload]
+    );
+    res.json({ ok: true, event: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// Cleanup organ — logs cleanup actions
+app.post("/cleanup", async (req, res) => {
+  const { block_id, volunteer_id, items_collected, notes } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO cleanups (block_id, volunteer_id, items_collected, notes)
+       VALUES ($1, $2, $3, $4)
+       RETURNING *`,
+      [block_id, volunteer_id, items_collected, notes]
+    );
+    res.json({ ok: true, cleanup: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// Heartbeat organ — logs organism pulse
+app.post("/heartbeat", async (req, res) => {
+  const { module, status, message } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO heartbeat_logs (module, status, message)
+       VALUES ($1, $2, $3)
+       RETURNING *`,
+      [module, status, message]
+    );
+    res.json({ ok: true, heartbeat: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// Metrics organ — logs dashboard metrics
+app.post("/metric", async (req, res) => {
+  const { metric, value, metadata } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO metrics (metric, value, metadata)
+       VALUES ($1, $2, $3)
+       RETURNING *`,
+      [metric, value, metadata]
+    );
+    res.json({ ok: true, metric: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+
+/* -------------------------------------------
+   CANCAN — Additional Civic Organ Routes
+   -------------------------------------------
+   Adds:
+   - /block
+   - /volunteer
+   - /daily-report
+   ------------------------------------------- */
+
+// Create a block (map organ)
+app.post("/block", async (req, res) => {
+  const { name, lat, lon } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO blocks (name, lat, lon)
+       VALUES ($1, $2, $3)
+       RETURNING *`,
+      [name, lat, lon]
+    );
+    res.json({ ok: true, block: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// Register a volunteer (community organ)
+app.post("/volunteer", async (req, res) => {
+  const { name, phone } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO volunteers (name, phone)
+       VALUES ($1, $2)
+       RETURNING *`,
+      [name, phone]
+    );
+    res.json({ ok: true, volunteer: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// Daily report writer (memory organ)
+app.post("/daily-report", async (req, res) => {
+  const { date, summary, metrics, doi } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO daily_reports (date, summary, metrics, doi)
+       VALUES ($1, $2, $3, $4)
+       RETURNING *`,
+      [date, summary, metrics, doi]
+    );
+    res.json({ ok: true, report: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+
+/* -------------------------------------------
+   CANCAN — DOI Archive Organ Routes
+   -------------------------------------------
+   Adds:
+   - /doi
+   - /doi-list
+   ------------------------------------------- */
+
+// Create a DOI entry (archive organ)
+app.post("/doi", async (req, res) => {
+  const { doi, title, url, metadata } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO dois (doi, title, url, metadata)
+       VALUES ($1, $2, $3, $4)
+       RETURNING *`,
+      [doi, title, url, metadata]
+    );
+    res.json({ ok: true, doi: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// List all DOIs (public archive)
+app.get("/doi-list", async (req, res) => {
+  try {
+    const result = await client.query(
+      "SELECT * FROM dois ORDER BY created_at DESC"
+    );
+    res.json({ ok: true, dois: result.rows });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+
+/* -------------------------------------------
+   CANCAN — System Log Organ Routes
+   -------------------------------------------
+   Adds:
+   - /system-log
+   - /system-log-list
+   ------------------------------------------- */
+
+// Write a system log entry (reflex memory)
+app.post("/system-log", async (req, res) => {
+  const { level, module, message, context } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO system_logs (level, module, message, context)
+       VALUES ($1, $2, $3, $4)
+       RETURNING *`,
+      [level, module, message, context]
+    );
+    res.json({ ok: true, log: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// List system logs (for debugging or dashboards)
+app.get("/system-log-list", async (req, res) => {
+  try {
+    const result = await client.query(
+      "SELECT * FROM system_logs ORDER BY timestamp DESC LIMIT 200"
+    );
+    res.json({ ok: true, logs: result.rows });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+
+/* -------------------------------------------
+   CANCAN — System Log Organ Routes
+   -------------------------------------------
+   Adds:
+   - /system-log
+   - /system-log-list
+   ------------------------------------------- */
+
+// Write a system log entry (reflex memory)
+app.post("/system-log", async (req, res) => {
+  const { level, module, message, context } = req.body;
+
+  try {
+    const result = await client.query(
+      `INSERT INTO system_logs (level, module, message, context)
+       VALUES ($1, $2, $3, $4)
+       RETURNING *`,
+      [level, module, message, context]
+    );
+    res.json({ ok: true, log: result.rows[0] });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+// List system logs (for debugging or dashboards)
+app.get("/system-log-list", async (req, res) => {
+  try {
+    const result = await client.query(
+      "SELECT * FROM system_logs ORDER BY timestamp DESC LIMIT 200"
+    );
+    res.json({ ok: true, logs: result.rows });
+  } catch (err) {
+    res.json({ ok: false, error: err.message });
+  }
+});
+
+
+/* -------------------------------------------
+   CANCAN — Serve Dashboard as Homepage
+   ------------------------------------------- */
+const path = require("path");
+app.use("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "public/index.html"));
+});
+
