@@ -1,2 +1,1 @@
-[paste your clean code here]
-// redeploy trigger
+[paste the full code above]
