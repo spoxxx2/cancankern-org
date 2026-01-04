@@ -1,4 +1,5 @@
-process.on("uncaughtException", (err) => {
+console.log("SUPABASE_URL:", process.env.SUPABASE_URL);
+console.log("SUPABASE_KEY (first 12):", process.env.SUPABASE_KEY?.slice(0, 12));process.on("uncaughtException", (err) => {
   console.error("UNCAUGHT EXCEPTION:", err);
 });
 
