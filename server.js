@@ -1,4 +1,12 @@
-console.log("SERVER.JS STARTING...");require("dotenv").config();
+process.on("uncaughtException", (err) => {
+  console.error("UNCAUGHT EXCEPTION:", err);
+});
+
+process.on("unhandledRejection", (err) => {
+  console.error("UNHANDLED REJECTION:", err);
+});
+
+console.log("SERVER.JS STARTING...");console.log("SERVER.JS STARTING...");require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
 const { createClient } = require("@supabase/supabase-js");
