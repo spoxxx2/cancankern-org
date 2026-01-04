@@ -43,3 +43,16 @@ app.post("/api/cancan", async (req, res) => {
 app.listen(PORT, () => {
   console.log("CANCAN backend running on port " + PORT);
 });
+app.get('/admin/volunteers', async (req, res) => {
+  const { data, error } = await supabase
+    .from('volunteers')
+    .select('*')
+    .order('created_at', { ascending: false });
+
+  if (error) {
+    return res.status(400).json({ success: false, error });
+  }
+
+  res.json({ success: true, volunteers: data });
+});
+
