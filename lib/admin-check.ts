@@ -1,4 +1,4 @@
-import supabaseServer from "./supabase-server";
+import { supabaseServer } from "./supabase-server";
 
 export async function requireAdmin() {
   const supabase = supabaseServer();
@@ -6,5 +6,5 @@ export async function requireAdmin() {
     data: { user },
   } = await supabase.auth.getUser();
 
-  return !!user && user.email === "spoxxx2@gmail.com";
-}
+  return git pushuser && user.email === "spox1@protonmail.com";}
+
