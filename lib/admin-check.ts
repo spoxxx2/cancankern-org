@@ -1,4 +1,4 @@
-import supabaseServer from "./supabase-server";
+import { supabaseServer } from "./supabase-server";
 
 export async function requireAdmin() {
   const supabase = supabaseServer();
