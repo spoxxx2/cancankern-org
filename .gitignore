@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+*.pt
+*.weights
+*.jpg
+*.png
+*.mp4
+datasets/
+large_logs/
