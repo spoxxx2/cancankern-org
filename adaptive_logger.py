@@ -1,6 +1,4 @@
-import os
-import sys
-import random
+import os, sys, random
 from datetime import datetime
 
 sys.path.append(os.path.expanduser("~/.local/lib/python3.9/site-packages"))
@@ -13,28 +11,33 @@ def log_debris_event(metadata):
     try:
         supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
         
-        # Adding Advanced Digital Twin Metadata
-        metadata["estimated_value"] = round(random.uniform(0.05, 1.50), 2)  # Simulated USD value
-        metadata["contamination_risk"] = "High" if metadata["objects"]["condition"] == "Soiled" else "Low"
+        # High-Value "Buyer" Metadata Integration
+        metadata["market_data"] = {
+            "purity_score": round(random.uniform(85.0, 99.9), 1), # % of polymer purity
+            "moisture_content": f"{random.randint(2, 15)}%",      # High moisture = lower price
+            "weight_est_grams": random.randint(20, 500),         # Weight = Volume for logistics
+            "current_market_price_mt": random.randint(800, 1200) # Price per metric ton
+        }
+        
         metadata["forecast_50yr"] = {
-            "appearance": "Micro-plastic fragmentation / Semi-integrated soil matrix",
-            "hazard_level": "Toxic Leachate Potential",
-            "recovery_urgency": "Immediate for Circularity"
+            "appearance": "Micro-plastic fragmentation",
+            "danger_level": "High - Leachate Risk",
+            "worth_at_50yrs": "$0.00 (Degraded)"
         }
         
         response = supabase.table("debris_logs").insert(metadata).execute()
-        print(f"✅ DIGITAL TWIN LOGGED: {metadata['event_id']}")
+        print(f"✅ HIGH-VALUE DATA LOGGED: {metadata['event_id']}")
         return response
     except Exception as e:
         print(f"❌ Sync Failed: {e}")
 
 if __name__ == "__main__":
     test_data = {
-        "event_id": f"NODE-{random.randint(1000,9999)}",
+        "event_id": f"SALE-DATA-{random.randint(1000,9999)}",
         "objects": {
             "material": "Polymer",
             "sub_type": "PET #1",
-            "condition": "Soiled",
+            "condition": "Intact",
             "disposal": "Circular Economy"
         }
     }
