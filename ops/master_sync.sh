@@ -15,3 +15,4 @@ echo "📡 Hardwiring metadata to Supabase Cloud..."
 python3 adaptive_logger.py
 
 echo "✅ SYNC COMPLETE. Visit https://cancankern.org/public_log to view telemetry."
+python3 ops/monitor_scale.py
