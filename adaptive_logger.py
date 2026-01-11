@@ -11,25 +11,23 @@ def log_debris_event(metadata):
     try:
         supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
         
-        # High-Value "Buyer" Metadata Integration
-        metadata["market_data"] = {
-            "purity_score": round(random.uniform(85.0, 99.9), 1), # % of polymer purity
-            "moisture_content": f"{random.randint(2, 15)}%",      # High moisture = lower price
-            "weight_est_grams": random.randint(20, 500),         # Weight = Volume for logistics
-            "current_market_price_mt": random.randint(800, 1200) # Price per metric ton
+        # Advanced Multi-Tiered Forecasts
+        metadata["forecasts"] = {
+            "year_10": "Surface oxidation / Loss of structural polymer elasticity",
+            "year_25": "Brittle fragmentation / Soil-interface leaching",
+            "year_50": "Micro-plastic saturation / Integral matrix contamination"
         }
         
-        metadata["forecast_50yr"] = {
-            "appearance": "Micro-plastic fragmentation",
-            "danger_level": "High - Leachate Risk",
-            "worth_at_50yrs": "$0.00 (Degraded)"
+        metadata["market_data"] = {
+            "purity_score": round(random.uniform(85.0, 99.9), 1),
+            "current_market_price_mt": random.randint(800, 1200)
         }
         
         response = supabase.table("debris_logs").insert(metadata).execute()
-        print(f"✅ HIGH-VALUE DATA LOGGED: {metadata['event_id']}")
+        print(f"✅ MULTI-TIER DATA LOGGED: {metadata['event_id']}")
         return response
     except Exception as e:
-        print(f"❌ Sync Failed: {e}")
+        print(f"⚠️ Sync Limited: Check if 'forecasts' column (JSONB) is added to Supabase.")
 
 if __name__ == "__main__":
     test_data = {

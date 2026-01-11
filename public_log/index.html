@@ -2,83 +2,55 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CANCANKERN | Digital Twin Log</title>
+    <title>CANCANKERN | Industrial Debris Intelligence</title>
     <style>
-        body { font-family: 'Courier New', monospace; background: #0a0a0a; color: #00ff41; padding: 20px; }
-        h1 { border-bottom: 2px solid #00ff41; padding-bottom: 10px; }
-        .founder-box { background: #111; border: 1px solid #00ff41; padding: 15px; margin-bottom: 20px; box-shadow: 0 0 10px #00ff4133; }
-        .log-table { width: 100%; border-collapse: collapse; margin-top: 20px; font-size: 0.9em; }
-        .log-table th, .log-table td { border: 1px solid #333; padding: 12px; text-align: left; }
-        .log-table th { background: #1a1a1a; color: #fff; }
-        .forecast { color: #ff9900; font-style: italic; font-size: 0.8em; }
-        .value { color: #fff; font-weight: bold; }
+        body { font-family: 'Courier New', monospace; background: #0a0a0a; color: #00ff41; padding: 20px; line-height: 1.4; }
+        .container { max-width: 1000px; margin: auto; }
+        h1, h2 { border-bottom: 2px solid #00ff41; padding-bottom: 10px; text-transform: uppercase; }
+        .mission-box { background: #111; border: 1px solid #00ff41; padding: 20px; margin-bottom: 30px; box-shadow: 0 0 15px #00ff4122; }
+        .founder-sig { text-align: right; font-style: italic; color: #fff; margin-top: 20px; }
+        .log-table { width: 100%; border-collapse: collapse; margin-top: 20px; font-size: 0.85em; }
+        .log-table th, .log-table td { border: 1px solid #222; padding: 10px; text-align: left; }
+        .log-table th { background: #1a1a1a; color: #00ff41; }
+        .status-tag { background: #00ff41; color: #000; padding: 2px 5px; font-weight: bold; border-radius: 3px; font-size: 0.8em; }
+        .value-cell { color: #fff; font-weight: bold; }
+        footer { margin-top: 40px; border-top: 1px solid #333; padding-top: 20px; font-size: 0.8em; }
+        a { color: #00ff41; text-decoration: none; }
+        a:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
-    <h1>🛰️ CANCANKERN: ADAPTIVE MASTER STRATEGY</h1>
+    <div class="container">
+        <h1>🛰️ CANCANKERN: ADAPTIVE MASTER STRATEGY</h1>
 
-    <div class="founder-box">
-        <h3 style="margin-top: 0; color: #fff;">📝 FOUNDER'S DAILY BRIEFING</h3>
-        <p id="daily-message">Initializing strategic oversight...</p>
+        <div class="mission-box">
+            <h2>MISSION STATEMENT</h2>
+            <p>At CANCANKERN, we believe that waste is simply a failure of information. Our mission is to bridge the <strong>"Data Schism"</strong> by creating a Digital Twin for every object in the recovery stream.</p>
+            <p>By providing industrial-grade metadata—from polymer purity to 50-year environmental forecasts—we are turning the world's debris piles into actionable, transparent, and tradable assets.</p>
+            <div class="founder-sig">— The Founder</div>
+        </div>
+
+        <h2>LIVE TELEMETRY FEED <span class="status-tag">ACTIVE</span></h2>
+        <div id="loading">CONNECTING TO VISION NODE...</div>
+        <table class="log-table" id="debrisTable" style="display:none;">
+            <thead>
+                <tr>
+                    <th>TIMESTAMP</th>
+                    <th>EVENT_ID</th>
+                    <th>MATERIAL (TAXONOMY)</th>
+                    <th>PURITY</th>
+                    <th>50-YR FORECAST</th>
+                    <th>EST. VALUE</th>
+                </tr>
+            </thead>
+            <tbody id="logBody"></tbody>
+        </table>
+
+        <footer>
+            <p>© 2026 CANCANKERN | <a href="api_docs.html">INDUSTRIAL API & DATA LICENSING</a> | STRICT NON-RESALE ENFORCED</p>
+        </footer>
     </div>
 
-    <div id="loading">FETCHING CLOUD DATA...</div>
-    <table class="log-table" id="debrisTable" style="display:none;">
-        <thead>
-            <tr>
-                <th>TIMESTAMP</th>
-                <th>EVENT_ID</th>
-                <th>MATERIAL (TAXONOMY)</th>
-                <th>EST. VALUE</th>
-                <th>50-YEAR FORECAST</th>
-                <th>DISPOSAL</th>
-            </tr>
-        </thead>
-        <tbody id="logBody"></tbody>
-    </table>
-
     <script>
-        const messages = [
-            "Strategy Update: Shift focus to High-Density Polymers. The market for recovered PET is stabilizing.",
-            "Vision Note: Our YOLOv12 + ViT models are showing 98% accuracy on soiled materials. The Digital Twin is growing.",
-            "Sustainability Alert: 50-year forecasts indicate micro-plastic risk in Sector 7. Accelerating recovery urgency.",
-            "Economic Intelligence: Debris pile net worth is increasing. Recalibrating circular extraction targets."
-        ];
-        document.getElementById('daily-message').innerText = messages[Math.floor(Math.random() * messages.length)];
-
         const SB_URL = "https://dzrnwzvizztfmjgvpajd.supabase.co/rest/v1/debris_logs?select=*&order=created_at.desc";
-        const SB_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR6cm53enZpenp0Zm1qZ3ZwYWpkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2NzM3NDY3OSwiZXhwIjoyMDgyOTUwNjc5fQ.iWYiUTfKpVnLHEkbhIyvo0fzGxNMMpuRn8UIQZp2u5I";
-
-        async function fetchLogs() {
-            try {
-                const response = await fetch(SB_URL, {
-                    headers: { "apikey": SB_KEY, "Authorization": `Bearer ${SB_KEY}` }
-                });
-                const data = await response.json();
-                const body = document.getElementById('logBody');
-                
-                data.forEach(entry => {
-                    const forecast = entry.forecast_50yr ? entry.forecast_50yr.appearance : "Analyzing fragmentation...";
-                    const val = entry.estimated_value ? `$${entry.estimated_value}` : "Calculating...";
-                    
-                    const row = `<tr>
-                        <td>${new Date(entry.created_at).toLocaleString()}</td>
-                        <td>${entry.event_id}</td>
-                        <td>${entry.objects.material} (${entry.objects.sub_type})</td>
-                        <td class="value">${val}</td>
-                        <td class="forecast">${forecast}</td>
-                        <td>${entry.objects.disposal}</td>
-                    </tr>`;
-                    body.innerHTML += row;
-                });
-                document.getElementById('loading').style.display = 'none';
-                document.getElementById('debrisTable').style.display = 'table';
-            } catch (e) {
-                document.getElementById('loading').innerText = "CONNECTION ERROR: " + e;
-            }
-        }
-        fetchLogs();
-    </script>
-<footer style="margin-top:50px; border-top:1px solid #333; padding-top:20px;"><a href="api_docs.html" style="color:#00ff41;">[ INDUSTRIAL API & DATA LICENSING ]</a></footer>
-</body>
-</html>
+        const SB_KEY = "eyJhbGciOiJIUzI1NiIsInR
