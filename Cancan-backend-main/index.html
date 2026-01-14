@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CANCAN KERN | ADAPTIVE MASTER STRATEGY</title>
+    <style>
+        body { background: #000; color: #00FF00; font-family: 'Courier New', Courier, monospace; padding: 40px; }
+        .dashboard { border: 1px solid #00FF00; padding: 20px; box-shadow: 0 0 10px #00FF00; }
+        h1 { color: gold; border-bottom: 2px solid gold; padding-bottom: 10px; }
+        .live-feed { color: #00CCFF; }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <h1>ADAPTIVE MASTER STRATEGY: LIVE AUDIT</h1>
+        <p>FOUNDER: CASEY CANFIELD, PhD | BAKERSFIELD, CA</p>
+        <p>SYSTEM STATUS: <strong>HYBRID YOLOv12 + ViT ACTIVE</strong></p>
+        <div class="live-feed">
+            <h2>KERN RIVER PROTECTION SCORE: <span id="score">SYNCING...</span>%</h2>
+            <p>LATEST DOI: <span id="doi">10.2026/AMS.YOLO.ViT.DEBRIS-LEDGER</span></p>
+        </div>
+    </div>
+    <script>
+        // Fetch real-time data from Supabase Project dzrnwzvizztfmjgvpajd
+        const url = 'https://dzrnwzvizztfmjgvpajd.supabase.co/rest/v1/audit_logs?select=environmental_impact_score&limit=1&order=id.desc';
+        fetch(url, {
+            headers: { 'apikey': 'YOUR_SUPABASE_ANON_KEY', 'Authorization': 'Bearer YOUR_SUPABASE_ANON_KEY' }
+        })
+        .then(res => res.json())
+        .then(data => {
+            if(data[0]) document.getElementById('score').innerText = data[0].environmental_impact_score;
+        });
+    </script>
+</body>
+</html>
