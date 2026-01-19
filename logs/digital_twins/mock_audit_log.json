@@ -1,0 +1,21 @@
+{
+    "detection_event": "2026-01-19T10:58:55.710893",
+    "objects": [
+        {
+            "label": "Item_001",
+            "taxonomy": {
+                "material": "Cellulose",
+                "sub_type": "Corrugated Cardboard",
+                "condition": "Wet/Soiled",
+                "disposal": "Compost"
+            },
+            "forecast_50yr": {
+                "appearance": "Fully decomposed / Humus",
+                "estimated_worth": "$0.00 (Soil enrichment)",
+                "danger_level": "Low (Organic methane risk if anaerobic)"
+            },
+            "contamination_risk": "High (Wet material)"
+        }
+    ],
+    "environmental_impact_score": 8.5
+}

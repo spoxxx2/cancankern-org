@@ -1,0 +1,1359 @@
+CANCAN ENVIRONMENTAL COMPLIANCE & ECONOMIC IMPACT
+Location: 1501 Pearl St | Status: BMC § 8.32.190
+==================================================
+TOTAL ASSETS AUDITED: 269
+CARBON OFFSET (MTCO2e): 0.9038 MT
+ESTIMATED MUNICIPAL SAVINGS: $58.75
+METHANE AVOIDANCE STATUS: HIGH-IMPACT
+==================================================
+
+DETAILED AUDIT LOG:
+# Adaptive Master Strategy: Hardwired Digital Twin Log
+## Location: 1501 Pearl St | Compliance: BMC § 8.32.190
+## Mode: Full-Auto AI (YOLOv12 + ViT)
+---
+### Asset: TWIN_2026-01-18_20-27-57_20251225_133006.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-57_20251225_133006.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-33_CANCAN_1767749530.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-33_CANCAN_1767749530.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-33_CANCAN_1767749589.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-33_CANCAN_1767749589.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-33_CANCAN_1767750913.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-33_CANCAN_1767750913.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-33_CANCAN_1767750969.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-33_CANCAN_1767750969.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-34_CANCAN_1767751013.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-34_CANCAN_1767751013.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-34_CANCAN_1767751066.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-34_CANCAN_1767751066.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-34_CANCAN_1767751178.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-34_CANCAN_1767751178.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-34_CANCAN_1767751293.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-34_CANCAN_1767751293.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-34_CANCAN_1767751381.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-34_CANCAN_1767751381.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-34_CANCAN_1767802458.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-34_CANCAN_1767802458.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-35_20251225_122723.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-35_20251225_122723.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-35_20251228_191407.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-35_20251228_191407.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-35_photo-20260101-205752.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-35_photo-20260101-205752.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-35_photo-20260102-102905.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-35_photo-20260102-102905.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-35_20251225_125959.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-35_20251225_125959.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-35_20251225_130004.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-35_20251225_130004.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-36_20251225_132003.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-36_20251225_132003.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-36_20251226_024157.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-36_20251226_024157.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-36_20251226_041402.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-36_20251226_041402.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-36_20251226_042123.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-36_20251226_042123.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-36_20251226_042130.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-36_20251226_042130.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-36_20251226_043018.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-36_20251226_043018.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-37_20251226_043909.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-37_20251226_043909.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-37_20251226_044852.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-37_20251226_044852.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-37_20251226_045559.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-37_20251226_045559.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-37_20251226_045920.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-37_20251226_045920.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-37_20251226_050934.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-37_20251226_050934.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-37_20251226_080632.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-37_20251226_080632.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-38_20251226_082246.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-38_20251226_082246.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-38_20251226_082329.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-38_20251226_082329.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-38_20251226_082510.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-38_20251226_082510.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-38_20251226_090048.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-38_20251226_090048.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-38_20251226_091301.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-38_20251226_091301.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-38_20251226_104440.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-38_20251226_104440.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-38_20251226_104540.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-38_20251226_104540.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-38_20251226_105029.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-38_20251226_105029.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-39_20251226_105652.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-39_20251226_105652.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-39_20251226_111225.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-39_20251226_111225.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-39_20251226_133259.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-39_20251226_133259.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-39_20251226_134705.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-39_20251226_134705.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-39_20251226_135055.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-39_20251226_135055.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-39_20251226_135841.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-39_20251226_135841.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-39_20251226_135920.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-39_20251226_135920.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-39_20251226_140354.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-39_20251226_140354.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-39_20251227_203340.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-39_20251227_203340.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-39_20251227_204559.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-39_20251227_204559.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251227_204712.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251227_204712.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251227_204751.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251227_204751.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251227_204826.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251227_204826.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251227_204857.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251227_204857.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251227_204932.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251227_204932.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251227_205010.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251227_205010.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251227_205057.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251227_205057.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251227_205102.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251227_205102.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251227_205245.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251227_205245.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251228_101328.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251228_101328.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-40_20251228_142808.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-40_20251228_142808.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_143830.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_143830.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_180352.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_180352.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_184435.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_184435.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_185335.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_185335.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_191008.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_191008.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_191123.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_191123.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_191407.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_191407.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_191649.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_191649.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_191859.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_191859.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_192014.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_192014.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-41_20251228_192532.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-41_20251228_192532.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-42_20251228_192548.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-42_20251228_192548.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-42_20251228_192638.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-42_20251228_192638.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-42_20251228_200423.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-42_20251228_200423.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-43_20251228_201806.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-43_20251228_201806.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-43_20251228_201914.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-43_20251228_201914.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-43_20251228_202304.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-43_20251228_202304.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-44_20251228_203452.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-44_20251228_203452.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-44_20251228_204043.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-44_20251228_204043.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-44_20251228_204344.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-44_20251228_204344.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-44_20251228_204609.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-44_20251228_204609.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-45_20251228_205648.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-45_20251228_205648.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-45_20251228_205657.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-45_20251228_205657.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-45_20251228_205854.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-45_20251228_205854.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-45_20251228_210446.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-45_20251228_210446.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-45_20251228_210849.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-45_20251228_210849.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-45_20251228_211304.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-45_20251228_211304.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-45_20251228_211804.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-45_20251228_211804.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-45_20251228_213636.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-45_20251228_213636.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_220805.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_220805.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_222022.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_222022.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_222419.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_222419.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_223244.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_223244.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_223932.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_223932.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_225613.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_225613.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_230838.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_230838.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_231935.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_231935.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_232931.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_232931.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_233039.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_233039.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251228_234304.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251228_234304.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251228_235255.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251228_235255.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251228_235505.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251228_235505.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251228_235908.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251228_235908.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251229_000150.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251229_000150.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251229_002809.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251229_002809.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251229_003013.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251229_003013.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251229_004002.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251229_004002.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251229_004220.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251229_004220.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-49_20251229_004417.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-49_20251229_004417.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-49_20251229_004522.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-49_20251229_004522.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-49_20251229_010955.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-49_20251229_010955.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-49_20251229_074042.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-49_20251229_074042.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-49_20251229_083405.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-49_20251229_083405.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-49_20251229_085157.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-49_20251229_085157.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-50_20251229_095000.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-50_20251229_095000.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-50_20251229_184054.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-50_20251229_184054.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-50_20251229_223232.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-50_20251229_223232.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-50_20251230_081518.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-50_20251230_081518.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-50_20251230_081853.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-50_20251230_081853.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-51_20251230_082100.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-51_20251230_082100.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-51_20251230_104842.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-51_20251230_104842.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-51_20251228_231230.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-51_20251228_231230.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-51_20251228_232319.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-51_20251228_232319.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251228_234655.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251228_234655.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251229_005612.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251229_005612.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251229_010027.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251229_010027.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251229_010035.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251229_010035.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251229_010807.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251229_010807.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-53_20251229_015930.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-53_20251229_015930.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-53_20251229_074350.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-53_20251229_074350.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-53_20251229_093446.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-53_20251229_093446.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-53_20251229_101022.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-53_20251229_101022.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-53_20251229_170629.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-53_20251229_170629.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-53_20251229_182847.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-53_20251229_182847.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251229_223122.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251229_223122.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251230_100922.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251230_100922.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251230_103909.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251230_103909.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-55_20251231_112244.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-55_20251231_112244.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-55_20251226_080632.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-55_20251226_080632.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-56_20251226_082329.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-56_20251226_082329.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-56_20251226_082510.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-56_20251226_082510.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-42_20251228_192824.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-42_20251228_192824.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-42_20251228_193341.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-42_20251228_193341.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-42_20251228_193503.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-42_20251228_193503.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-42_20251228_194051.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-42_20251228_194051.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-42_20251228_194602.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-42_20251228_194602.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-42_20251228_195556.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-42_20251228_195556.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-42_20251228_200240.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-42_20251228_200240.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-43_20251228_201153.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-43_20251228_201153.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-43_20251228_201648.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-43_20251228_201648.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-43_20251228_201717.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-43_20251228_201717.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-43_20251228_202504.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-43_20251228_202504.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-43_20251228_202913.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-43_20251228_202913.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-44_20251228_203915.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-44_20251228_203915.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-44_20251228_205237.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-44_20251228_205237.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-44_20251228_205643.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-44_20251228_205643.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-45_20251228_210230.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-45_20251228_210230.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_215048.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_215048.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_221227.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_221227.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_221459.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_221459.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_221659.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_221659.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_222235.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_222235.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_222927.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_222927.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-46_20251228_223115.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-46_20251228_223115.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_223406.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_223406.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_224353.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_224353.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_224600.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_224600.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_224636.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_224636.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_225310.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_225310.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-47_20251228_230304.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-47_20251228_230304.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251228_233905.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251228_233905.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-48_20251228_235203.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-48_20251228_235203.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-49_20251229_015739.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-49_20251229_015739.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-49_20251229_084316.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-49_20251229_084316.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-49_20251229_084525.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-49_20251229_084525.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-49_20251229_090401.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-49_20251229_090401.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-50_20251229_095646.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-50_20251229_095646.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-50_20251229_100911.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-50_20251229_100911.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-50_20251229_181609.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-50_20251229_181609.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-50_20251229_181628.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-50_20251229_181628.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-50_20251229_223143.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-50_20251229_223143.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-51_20251230_094936.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-51_20251230_094936.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-51_20251230_104428.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-51_20251230_104428.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-51_20251230_110749.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-51_20251230_110749.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-51_20251231_223555.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-51_20251231_223555.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-51_20251228_231718.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-51_20251228_231718.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-51_20251228_232810.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-51_20251228_232810.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251228_233448.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251228_233448.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251228_234812.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251228_234812.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251228_235740.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251228_235740.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251229_000031.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251229_000031.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251229_000533.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251229_000533.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251229_002237.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251229_002237.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251229_005718.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251229_005718.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-52_20251229_010215.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-52_20251229_010215.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-53_20251229_011233.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-53_20251229_011233.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-53_20251229_104253.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-53_20251229_104253.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-53_20251229_180958.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-53_20251229_180958.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-53_20251229_181007.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-53_20251229_181007.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251229_223129.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251229_223129.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251229_225335.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251229_225335.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251230_082912.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251230_082912.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251230_095415.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251230_095415.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251230_095834.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251230_095834.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251230_100642.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251230_100642.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251230_101700.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251230_101700.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-54_20251230_103544.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-54_20251230_103544.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-55_20251230_105936.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-55_20251230_105936.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-55_20251230_110635.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-55_20251230_110635.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-55_20251231_101312.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-55_20251231_101312.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-55_20251231_121944.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-55_20251231_121944.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-56_sddefault.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-56_sddefault.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-57_20251226_033516.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-57_20251226_033516.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766637215.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766637215.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766638192.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766638192.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766638447.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766638447.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766638451.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766638451.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-59_photo-1766638936.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-59_photo-1766638936.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-59_photo-1766639218.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-59_photo-1766639218.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-59_photo-1766639357.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-59_photo-1766639357.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-00_photo-1766639588.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-00_photo-1766639588.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-00_photo-20251224-213010.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-00_photo-20251224-213010.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-00_photo-20251225-093444.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-00_photo-20251225-093444.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-01_photo-20251225-103141.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-01_photo-20251225-103141.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-01_photo-20251225-104656.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-01_photo-20251225-104656.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-55_20251231_122424.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-55_20251231_122424.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-55_20251231_163857.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-55_20251231_163857.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-55_20251231_193115.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-55_20251231_193115.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-55_20251226_050934.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-55_20251226_050934.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-56_20251226_082246.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-56_20251226_082246.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-56_20251226_091301.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-56_20251226_091301.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-56_TWIN_2026-01-18_20-27-33_CANCAN_1767749427.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-56_TWIN_2026-01-18_20-27-33_CANCAN_1767749427.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-57_20251225_143103.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-57_20251225_143103.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-57_20251225_161703.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-57_20251225_161703.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766637760.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766637760.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-59_photo-1766638938.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-59_photo-1766638938.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-59_photo-1766639353.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-59_photo-1766639353.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-00_photo-20251224-211930.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-00_photo-20251224-211930.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-00_photo-20251225-094445.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-00_photo-20251225-094445.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-56_IMG_20220106_012117899.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-56_IMG_20220106_012117899.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-57_photo-20251225-103952.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-57_photo-20251225-103952.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-57_20251225_134102.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-57_20251225_134102.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-57_20251225_134154.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-57_20251225_134154.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-57_20251226_034128.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-57_20251226_034128.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-57_photo-1766636754.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-57_photo-1766636754.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-57_photo-1766636927.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-57_photo-1766636927.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766636930.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766636930.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-59_photo-1766638589.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-59_photo-1766638589.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-59_photo-1766638593.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-59_photo-1766638593.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-59_photo-1766639220.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-59_photo-1766639220.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-00_photo-20251224-210107.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-00_photo-20251224-210107.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-00_photo-20251225-094752.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-00_photo-20251225-094752.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-01_photo-20251225-094816.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-01_photo-20251225-094816.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-01_photo-20251225-100456.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-01_photo-20251225-100456.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-01_photo-20251225-101315.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-01_photo-20251225-101315.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-01_photo-20251225-103110.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-01_photo-20251225-103110.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-01_photo-20251225-105808.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-01_photo-20251225-105808.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-56_20251226_090048.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-56_20251226_090048.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-56_image_1766126878123.jpeg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-56_image_1766126878123.jpeg.json
+---
+### Asset: TWIN_2026-01-18_20-27-56_photo-20251225-103856.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-56_photo-20251225-103856.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766637213.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766637213.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766637495.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766637495.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766637498.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766637498.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766637763.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766637763.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-58_photo-1766638188.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-58_photo-1766638188.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-59_photo-1766639547.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-59_photo-1766639547.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-27-59_photo-1766639551.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-27-59_photo-1766639551.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-00_photo-1766639591.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-00_photo-1766639591.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-00_photo-20251224-212509.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-00_photo-20251224-212509.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-00_photo-20251225-094526.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-00_photo-20251225-094526.jpg.json
+---
+### Asset: TWIN_2026-01-18_20-28-01_photo-20251225-095023.jpg
+- Class: Non-Edible / Textile Recovery | Impact: 9.4
+- Timeline: 10y Frag | 25y Leach | 50y Micro-2076
+- Meta: logs/TWIN_2026-01-18_20-28-01_photo-20251225-095023.jpg.json
+---
