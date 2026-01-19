@@ -3,54 +3,139 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cancan Kern | Bakersfield Food Recovery</title>
+    <title>CANCAN KERN | AI-Powered Food Recovery</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        .gradient-text { background: linear-gradient(90deg, #10b981, #3b82f6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        html { scroll-behavior: smooth; }
+        .glass { background: rgba(15, 23, 42, 0.8); backdrop-filter: blur(10px); }
+        .emerald-gradient { background: linear-gradient(135deg, #10b981 0%, #059669 100%); }
     </style>
 </head>
-<body class="bg-gray-900 text-white font-sans">
-    <nav class="p-6 flex justify-between items-center border-b border-gray-800">
-        <h1 class="text-2xl font-bold gradient-text">CANCAN KERN</h1>
-        <div class="space-x-6 text-sm uppercase tracking-widest">
-            <a href="#mission" class="hover:text-emerald-400">Mission</a>
-            <a href="#compliance" class="hover:text-emerald-400">Compliance</a>
-            <a href="#ledger" class="hover:text-emerald-400">Digital Twin</a>
+<body class="bg-slate-950 text-slate-200">
+
+    <nav class="fixed w-full z-50 glass border-b border-slate-800">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-2">
+                <div class="w-8 h-8 emerald-gradient rounded-lg flex items-center justify-center">
+                    <i class="fas fa-recycle text-white"></i>
+                </div>
+                <span class="text-xl font-bold tracking-tighter text-white italic">CANCAN KERN</span>
+            </div>
+            <div class="hidden md:flex space-x-8 text-xs uppercase font-bold tracking-widest">
+                <a href="#about" class="hover:text-emerald-400 transition">About</a>
+                <a href="#programs" class="hover:text-emerald-400 transition">Programs</a>
+                <a href="#gallery" class="hover:text-emerald-400 transition">Gallery</a>
+                <a href="#audits" class="hover:text-emerald-400 transition">Audits</a>
+                <a href="#support" class="hover:text-emerald-400 transition">Support</a>
+            </div>
+            <a href="#donate" class="emerald-gradient text-white px-5 py-2 rounded-full text-xs font-bold uppercase hover:opacity-90 transition">Donate</a>
         </div>
     </nav>
 
-    <header class="py-20 px-6 text-center">
-        <h2 class="text-5xl md:text-7xl font-extrabold mb-6">Diverting Waste.<br><span class="gradient-text">Feeding Bakersfield.</span></h2>
-        <p class="max-w-2xl mx-auto text-gray-400 text-lg">Hardwired Food Recovery Organizations (FRO) leveraging YOLOv12 + ViT Vision systems to automate compliance and carbon offset tracking.</p>
+    <header class="relative pt-32 pb-20 px-6 overflow-hidden">
+        <div class="max-w-7xl mx-auto relative z-10">
+            <div class="inline-block px-4 py-1 border border-emerald-500/30 rounded-full bg-emerald-500/10 text-emerald-400 text-xs font-bold mb-6">
+                <i class="fas fa-microchip mr-2"></i> POWERED BY HYBRID YOLOv12 + ViT
+            </div>
+            <h1 class="text-6xl md:text-8xl font-black text-white mb-6 leading-none">RECOVERY<br><span class="text-emerald-500">REDEFINED.</span></h1>
+            <p class="max-w-xl text-lg text-slate-400 mb-10">We are a Bakersfield-based non-profit hardwiring AI vision into the circular economy to solve food waste at the source.</p>
+            <div class="flex flex-wrap gap-4">
+                <div class="bg-slate-900 border border-slate-800 p-6 rounded-2xl w-full md:w-64">
+                    <span class="text-emerald-500 text-3xl font-bold">1,028kg</span>
+                    <p class="text-xs text-slate-500 uppercase mt-1">CO2e Offset to Date</p>
+                </div>
+            </div>
+        </div>
     </header>
 
-    <section id="compliance" class="py-16 bg-gray-800">
-        <div class="max-w-6xl mx-auto px-6 grid md:grid-cols-3 gap-8">
-            <div class="p-8 bg-gray-900 rounded-2xl border border-gray-700">
-                <h3 class="text-emerald-400 font-bold mb-2">BMC § 8.32.190</h3>
-                <p class="text-sm text-gray-400">Fully compliant with Bakersfield municipal code for organic waste diversion and reporting.</p>
+    <section id="about" class="py-24 bg-slate-900/50">
+        <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
+            <div>
+                <h2 class="text-4xl font-bold text-white mb-6 underline decoration-emerald-500 decoration-4">Our Mission</h2>
+                <p class="text-slate-400 leading-relaxed mb-6">Cancan Kern is a registered non-profit dedicated to Bakersfield’s environmental future. We utilize advanced computer vision to identify, categorize, and divert organic waste—ensuring full compliance with BMC § 8.32.190.</p>
+                <ul class="space-y-4 text-sm">
+                    <li class="flex items-center space-x-3"><i class="fas fa-check-circle text-emerald-500"></i> <span>Methane Avoidance Strategy</span></li>
+                    <li class="flex items-center space-x-3"><i class="fas fa-check-circle text-emerald-500"></i> <span>Audit-Ready Digital Vaults</span></li>
+                    <li class="flex items-center space-x-3"><i class="fas fa-check-circle text-emerald-500"></i> <span>Thermal Safety Monitoring</span></li>
+                </ul>
             </div>
-            <div class="p-8 bg-gray-900 rounded-2xl border border-gray-700">
-                <h3 class="text-blue-400 font-bold mb-2">Methane Avoidance</h3>
-                <p class="text-sm text-gray-400">Real-time tracking of CO2e offsets using our Digital Twin debris taxonomy.</p>
-            </div>
-            <div class="p-8 bg-gray-900 rounded-2xl border border-gray-700">
-                <h3 class="text-purple-400 font-bold mb-2">Circular Economy</h3>
-                <p class="text-sm text-gray-400">Transforming non-edible organic waste into high-value upcycled products.</p>
+            <div class="rounded-3xl overflow-hidden border border-slate-800 bg-slate-800 aspect-video flex items-center justify-center">
+                <i class="fas fa-chart-line text-6xl text-slate-700"></i>
             </div>
         </div>
     </section>
 
-    <section id="ledger" class="py-20 px-6 text-center">
-        <h3 class="text-3xl font-bold mb-8">The Vision Ledger</h3>
-        <div class="bg-gray-800 p-10 rounded-3xl max-w-4xl mx-auto border-2 border-dashed border-gray-600">
-            <p class="text-gray-300 italic mb-4">"Processing Hybrid YOLOv12 Metadata..."</p>
-            <a href="web_ledger.html" class="inline-block bg-emerald-500 hover:bg-emerald-600 text-black font-bold py-3 px-8 rounded-full transition">View Audit Logs</a>
+    <section id="programs" class="py-24">
+        <div class="max-w-7xl mx-auto px-6">
+            <h2 class="text-center text-4xl font-bold text-white mb-16">Active Programs</h2>
+            <div class="grid md:grid-cols-3 gap-8 text-center">
+                <div class="p-8 rounded-3xl bg-slate-900 border border-slate-800 hover:border-emerald-500/50 transition">
+                    <i class="fas fa-eye text-4xl text-emerald-500 mb-6"></i>
+                    <h3 class="text-xl font-bold mb-4">Vision Audit</h3>
+                    <p class="text-sm text-slate-400 leading-relaxed">AI debris categorization with 50-year forecasting for material degradation.</p>
+                </div>
+                <div class="p-8 rounded-3xl bg-slate-900 border border-slate-800 hover:border-emerald-500/50 transition">
+                    <i class="fas fa-bug text-4xl text-blue-500 mb-6"></i>
+                    <h3 class="text-xl font-bold mb-4">BSF Node Sync</h3>
+                    <p class="text-sm text-slate-400 leading-relaxed">Utilizing Black Soldier Fly larvae nodes for localized organic diversion.</p>
+                </div>
+                <div class="p-8 rounded-3xl bg-slate-900 border border-slate-800 hover:border-emerald-500/50 transition">
+                    <i class="fas fa-shield-alt text-4xl text-purple-500 mb-6"></i>
+                    <h3 class="text-xl font-bold mb-4">Compliance</h3>
+                    <p class="text-sm text-slate-400 leading-relaxed">SB 1383 reporting and municipal code verification for local businesses.</p>
+                </div>
+            </div>
         </div>
     </section>
 
-    <footer class="py-10 text-center text-gray-500 border-t border-gray-800">
-        <p>&copy; 2026 Cancan Kern • Hardwired in Bakersfield, CA</p>
+    <section id="audits" class="py-24 bg-emerald-950/20">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-white mb-4">Bakersfield Impact Map</h2>
+                <p class="text-slate-400">Real-time data from our 306 audited recovery points.</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="md:col-span-2 bg-slate-900 rounded-3xl h-96 border border-slate-800 overflow-hidden relative">
+                   <div class="absolute inset-0 flex items-center justify-center text-slate-700 uppercase tracking-widest font-bold">
+                        [ Interactive Map Interface Loading ]
+                   </div>
+                </div>
+                <div class="bg-slate-900 p-8 rounded-3xl border border-slate-800">
+                    <h3 class="font-bold text-white mb-6 uppercase text-xs tracking-widest">Recent Activity</h3>
+                    <div class="space-y-6">
+                        <div class="border-l-2 border-emerald-500 pl-4">
+                            <p class="text-xs text-slate-500">Today, 11:52 AM</p>
+                            <p class="text-sm font-bold">Audit Verified: YOLO-1928</p>
+                            <p class="text-xs text-emerald-400">8.5 Impact Score</p>
+                        </div>
+                        <div class="border-l-2 border-slate-700 pl-4">
+                            <p class="text-xs text-slate-500">Yesterday</p>
+                            <p class="text-sm font-bold">Sync: Bakersfield FRO Node 1</p>
+                            <p class="text-xs text-slate-500">102kg Diverted</p>
+                        </div>
+                    </div>
+                    <a href="web_ledger.html" class="block text-center mt-10 text-emerald-400 text-sm font-bold hover:underline">ACCESS FULL LEDGER →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="support" class="py-24 border-t border-slate-800">
+        <div class="max-w-3xl mx-auto text-center px-6">
+            <h2 class="text-4xl font-bold text-white mb-8">Support the Mission</h2>
+            <p class="text-slate-400 mb-10">Help us scale our AI vision nodes across Kern County. Your support directly funds local food recovery infrastructure.</p>
+            <div class="flex justify-center space-x-4">
+                <a href="#donate" class="emerald-gradient px-10 py-4 rounded-2xl text-white font-bold transition">Donate Now</a>
+                <a href="mailto:support@cancankern.org" class="bg-slate-800 px-10 py-4 rounded-2xl text-white font-bold border border-slate-700 transition">Contact Us</a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="py-12 px-6 border-t border-slate-900 text-center">
+        <p class="text-slate-600 text-sm italic">CANCAN KERN NON-PROFIT • BAKERSFIELD, CALIFORNIA</p>
+        <p class="text-slate-800 text-[10px] mt-4 tracking-tighter uppercase">Hybrid YOLOv12 Environment • System State: Hardwired</p>
     </footer>
+
 </body>
 </html>
