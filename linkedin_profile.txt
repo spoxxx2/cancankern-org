@@ -1,0 +1,17 @@
+--- CANCAN LINKEDIN ASSETS ---
+
+HEADLINE:
+Administrator at CANCAN | AI Forensic Waste Auditing | SB 1383 Compliance Node
+
+EXPERIENCE:
+CANCAN (Nonprofit) - Administrator
+Jan 2026 - Present
+- Implementing automated forensic auditing for municipal waste streams.
+- Managing BSFL bio-acoustic recovery site at 1501 Pearl St.
+- Ensuring federal and state compliance via high-fidelity data ledgers.
+
+SKILLS:
+- AI Vision (YOLOv12 + ViT)
+- Municipal Compliance (SB 1383)
+- Bio-Acoustic Monitoring
+- Forensic Data Auditing

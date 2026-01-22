@@ -1,0 +1,14 @@
+© 2026 CANCAN. All Rights Reserved.
+Administrator: Casey Canfield
+Entity UEI: SSWWJ3SEMZ73
+Location: 1501 Pearl St, Bakersfield, CA 93305
+
+PROPRIETARY TECHNOLOGY NOTICE:
+The "Bio-Acoustic Black Soldier Fly Larvae (BSFL) Feed-Rate Optimization" algorithm, 
+the "10/25/50-Year Digital Twin Forecast" logic, and the associated "aud" 
+command-line interface are the exclusive intellectual property of CANCAN.
+
+Unauthorized duplication, modification, or commercial distribution of the logic 
+encoded in strategy.cpp, aud_engine.cpp, or the training weights associated with 
+the YOLOv12+ViT model is strictly prohibited without express written consent 
+from cancan@cancankern.org.

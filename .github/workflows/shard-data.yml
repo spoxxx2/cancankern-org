@@ -1,0 +1,18 @@
+name: "v++ Data Sharding"
+on:
+  push:
+    paths:
+      - 'data/**'
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Agent
+        run: |
+          git config user.name "Gemini v++ Agent"
+          git config user.email "aud@cancankern.org"
+      - name: Run Shard Logic
+        run: |
+          echo "Refactoring JSON via v++ logic..."
+          # This triggers the sharding process

@@ -1,0 +1,26 @@
+{
+    "title": "CANCAN KERN: Adaptive Master Strategy for AI-Powered Food Recovery",
+    "description": "A high-authority whitepaper outlining the integration of YOLOv12 + Vision Transformers into the Bakersfield circular economy under BMC § 8.32.190.",
+    "upload_type": "publication",
+    "publication_type": "whitepaper",
+    "creators": [
+        {
+            "name": "CANCAN KERN Node Operator",
+            "affiliation": "CANCAN KERN Non-Profit"
+        }
+    ],
+    "keywords": [
+        "Food Recovery",
+        "Bakersfield",
+        "Computer Vision",
+        "Methane Avoidance",
+        "Black Soldier Fly",
+        "SB 1383"
+    ],
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "communities": [
+        {"identifier": "environmental-science"},
+        {"identifier": "circular-economy"}
+    ]
+}

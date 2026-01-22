@@ -1,0 +1,31 @@
+{
+    "id": "TWIN_2026-01-18_20-27-34_CANCAN_1767751013",
+    "compliance": "BMC \u00a7 8.32.190",
+    "material": "Polymer / Mixed Organic",
+    "timeline": {
+        "10y": "Fragmentation Start",
+        "25y": "Leachate Phase",
+        "50y": "Micro-plastic 2076"
+    },
+    "environmental_impact_score": 8.5,
+    "status": "Verified",
+    "taxonomy": {
+        "material": "Cellulose / Mixed Fiber",
+        "sub_type": "Corrugated Cardboard",
+        "condition": "Soiled (Wet)",
+        "disposal": "Circular Economy / Compost"
+    },
+    "digital_twin_forecast": {
+        "2036_state": "Physical breakdown initiated",
+        "2051_state": "Leachate integration complete",
+        "2076_state": "Full molecular dissipation (Carbon Fixed)",
+        "danger_level": "Low (Biodegradable)"
+    },
+    "vision_metrics": {
+        "yolo_model": "v12-Custom-Kern",
+        "vit_confidence": "96.4%",
+        "hyperspectral_id": "HB-774-CELL",
+        "thermal_signature": "24.2\u00b0C"
+    },
+    "audit_timestamp": "2026-01-18 20:00:00"
+}

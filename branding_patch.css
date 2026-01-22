@@ -1,0 +1,15 @@
+header {
+    border: 2px solid #00ff00;
+    padding: 30px;
+    background: #000;
+    text-align: center;
+    position: relative;
+    clip-path: polygon(5% 0, 95% 0, 100% 20%, 100% 80%, 95% 100%, 5% 100%, 0 80%, 0 20%);
+}
+.logo-text {
+    font-size: 3.5em;
+    font-weight: 900;
+    color: #00ff00;
+    letter-spacing: 10px;
+    text-shadow: 0 0 10px #00ff0055;
+}

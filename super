@@ -1,0 +1,6 @@
+# CANCAN Daily Update Script
+echo "Updating Daily Message..."
+read -p "What is today's truth? " message
+sed -i "s/System Online.*/System Online: Jan 21, 2026/" index.html
+sed -i "/<p>\"/c\<p>\"$message\"</p>" index.html
+echo "Success! Your website now shows: $message"

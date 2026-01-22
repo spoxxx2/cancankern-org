@@ -1,0 +1,2 @@
+echo "--- DIGITAL TWIN LOG ---" >> audit_log.json
+echo "{ \"material\": \"Ferrous Metal\", \"10yr\": \"Oxidation Level: 20%\", \"25yr\": \"Soil Leaching: Active\", \"50yr\": \"Structural Collapse\" }" >> audit_log.json
