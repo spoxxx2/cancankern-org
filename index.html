@@ -5,55 +5,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CANCANKERN | Zenith Audit Portal</title>
     <style>
-        :root { --neon: #00ff41; --bg: #0a0a0a; }
+        :root { --neon: #00ff41; --bg: #0a0a0a; --gray: #1a1a1a; }
         body { font-family: 'Courier New', monospace; background: var(--bg); color: var(--neon); margin: 0; padding: 20px; line-height: 1.4; }
         header { border-bottom: 2px solid var(--neon); padding-bottom: 10px; margin-bottom: 20px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; }
-        .vault-card { border: 1px solid #333; padding: 15px; background: #111; transition: 0.3s; }
-        .vault-card:hover { border-color: var(--neon); box-shadow: 0 0 10px var(--neon); }
+        .section { background: var(--gray); border-left: 3px solid var(--neon); padding: 15px; margin-bottom: 20px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+        h2, h3 { color: #fff; text-transform: uppercase; margin-top: 0; }
         .tag { font-size: 0.8em; background: var(--neon); color: #000; padding: 2px 5px; font-weight: bold; }
-        h2, h3 { color: #fff; text-transform: uppercase; }
-        .forecast-matrix { font-size: 0.85em; color: #888; }
+        .founder-msg { font-style: italic; color: #fff; border: 1px dashed var(--neon); padding: 10px; }
+        .nav-link { color: var(--neon); text-decoration: none; border: 1px solid var(--neon); padding: 5px; display: inline-block; margin: 5px 0; }
+        .nav-link:hover { background: var(--neon); color: #000; }
     </style>
 </head>
 <body>
     <header>
-        <h1>CANCANKERN <span class="tag">ZENITH-OVERLORD</span></h1>
-        <p>501(c)(3) ID: EIN & SAM VERIFIED | BMC § 8.32.190</p>
+        <h1>CANCANKERN <span class="tag">SUPREME OVERLORD</span></h1>
+        <p>501(c)(3) Non-Profit | EIN & SAM VERIFIED | BMC § 8.32.190</p>
     </header>
 
+    <div class="section">
+        <h3>🛡️ Founder's Daily Directive</h3>
+        <p class="founder-msg">
+            "Day 23, 2026: The Zenith Matrix is now live. We aren't just scanning debris; we are auditing the next century. 1501 Pearl St is the anchor for the Digital Twin network. Secure the data, protect the IP."
+        </p>
+    </div>
+
     <div class="grid">
-        <div class="vault-card">
-            <h3>📂 Donation Receipts</h3>
-            <p>Secure vault for client tax-deduction records.</p>
-            <button onclick="alert('Accessing Encrypted Vault...')">View Records</button>
+        <div class="section">
+            <h3>🪰 BSFL Bio-Acoustic Pilot</h3>
+            <p>Monitoring digestion frequency to optimize carbon diversion.</p>
+            <span class="tag">PATENT PENDING CC-KERN-2026</span>
+            <br><br>
+            <a href="#" class="nav-link">View Acoustic Data</a>
         </div>
 
-        <div class="vault-card">
-            <h3>⚖️ Weight & Carbon Logs</h3>
-            <p>Current Offset: 1028.16 kg CO2e</p>
-            <p>Real-time diversion tracking active.</p>
+        <div class="section">
+            <h3>📑 Programs & About</h3>
+            <p>• Food Recovery Zenith<br>• 100-Year Material Forecast<br>• Municipal Compliance Audit</p>
+            <a href="#" class="nav-link">Learn More</a>
         </div>
 
-        <div class="vault-card">
-            <h3>🔥 Thermal Safety Photos</h3>
-            <p>Active monitoring of decomposition heat signatures.</p>
-            <span class="tag">STATUS: COOL</span>
+        <div class="section">
+            <h3>🤝 Sponsorship & Support</h3>
+            <p>Partner with a 501(c)(3) to boost your CSR metrics.</p>
+            <a href="mailto:support@cancankern.org" class="nav-link">Contact Support</a>
+            <a href="#" class="nav-link">Become a Sponsor</a>
         </div>
+    </div>
 
-        <div class="vault-card">
-            <h3>⏳ 100-Year Digital Twin</h3>
-            <div class="forecast-matrix">
-                [2026] Initial Scan: 100% Value<br>
-                [2076] Mid-Point: 75% Oxidation<br>
-                [2126] Zenith: Total Entropy
-            </div>
+    <div class="section">
+        <h3>📂 Audit Vaults</h3>
+        <div class="grid">
+            <div>• Receipt Records</div>
+            <div>• Thermal Logs</div>
+            <div>• Weight Logs</div>
+            <div>• 10-Decade Matrix</div>
         </div>
     </div>
 
     <footer>
-        <p style="margin-top: 40px; font-size: 0.7em; color: #444;">
-            © 2026 CANCANKERN™ | USPTO Patent Pending CC-KERN-2026 | BAK-LIC-93305
+        <p style="text-align: center; font-size: 0.7em; color: #444; margin-top: 50px;">
+            © 2026 CANCANKERN™ | EIN REGISTERED | SAM UEI VERIFIED | BAK-LIC-93305
         </p>
     </footer>
 </body>
