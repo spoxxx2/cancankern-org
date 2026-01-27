@@ -1,11 +1,19 @@
 {
-  "creators": [
-    {
-      "name": "CANCANKERN (501c3)",
-      "affiliation": "Bakersfield, CA"
-    }
-  ],
-  "title": "Zenith Node 001: 318-Item Predictive Debris Matrix",
-  "description": "Multimodal dataset for SB 1383 compliance including 100-year oxidation forecasts.",
-  "keywords": ["SB 1383", "Circular Economy", "AI Training Data"]
+    "title": "CANCAN KERN: Automated Urban Audit Framework",
+    "description": "A Python-based framework for verifiable urban auditing using GPS geocoding, AI-driven image classification (YOLO/ViT), and EXIF metadata injection for chain-of-custody preservation.",
+    "creators": [
+        {
+            "name": "CANCAN KERN Org",
+            "affiliation": "Independent Auditor"
+        }
+    ],
+    "keywords": [
+        "Bakersfield",
+        "Urban Audit",
+        "GPS Geocoding",
+        "Computer Vision",
+        "OpenStreetMap"
+    ],
+    "access_right": "open",
+    "license": "MIT"
 }
