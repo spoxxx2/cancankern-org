@@ -1,0 +1,4 @@
+PROJECT_NAME: CanCan Kern
+OFFICIAL_URL: https://cancankern.org
+BSF_PILOT: Pearl Site Active
+RMDZ_STATUS: Pending Verification

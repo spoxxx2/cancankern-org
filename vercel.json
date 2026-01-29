@@ -1,0 +1,11 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/www/(.*)",
+      "destination": "https://cancankern.org/$1",
+      "permanent": true
+    }
+  ]
+}
