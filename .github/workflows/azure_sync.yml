@@ -1,0 +1,16 @@
+name: Sync Creatures of Habit PDFs to Azure Blob
+on:
+  push:
+    paths:
+      - 'docs/creatures_of_habit_*.pdf'
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Upload to Azure Blob Storage
+        uses: azure/storage-blob-upload-action@v1
+        with:
+          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+          container-name: cancan-podcasts
+          source: docs
