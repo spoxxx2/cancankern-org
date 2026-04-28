@@ -1,0 +1,22 @@
+{
+  "detection_event": "2026-04-28_T1700_PanamaLane",
+  "location": "93307_Bakersfield_CA",
+  "aqi_status": "Flag: Mask Required if >100",
+  "objects": [
+    {
+      "label": "Biomass_Lysis_Residual",
+      "material": "Cellulose/Chitin",
+      "confidence": 0.98,
+      "state": "Wet_Fragmented",
+      "estimated_value": "Bio-Fertilizer_Grade_A",
+      "contamination_risk": "None_Aqueous_Only",
+      "suggested_bin": "Compost_Circular_Economy"
+    }
+  ],
+  "environmental_impact_score": 9.8,
+  "degradation_forecast": {
+    "10_year": "50% Mineralization",
+    "25_year": "90% Nitrogen Integration",
+    "50_year": "100% Soil Homogenization"
+  }
+}
