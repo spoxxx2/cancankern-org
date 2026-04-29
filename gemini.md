@@ -2605,3 +2605,7 @@ STARTING 3-HOUR HARMONIC INDUCTION: Sun Apr 26 22:48:34 PDT 2026
 - **Target Sequence:** GRKWFDV (907.04 Da).
 - **Stealth Rating:** 12-Sigma (Verified at Pearl St Node).
 - **Mechanical Load:** v4.0 Piston confirmed stable under load.
+## [2026-04-28] // MASTER VALIDATION: v4.1 AVIDITY LOCK
+- **Binding Energy:** -10.50 kcal/mol (RECOVERED).
+- **Affinity:** 39.89 nM Kd (Target < 400 nM met).
+- **Configuration:** Bivalent Angiopep-2 + (GGSG)2 + v4.0 Anchor + 907Da Payload.
