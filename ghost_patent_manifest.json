@@ -1,0 +1,13 @@
+{
+    "inventor": "Casey Canfield",
+    "status": "Trade_Secret_Active",
+    "public_claim": "Bio-Acoustic Thermal Stabilization of 24-mer AMPs",
+    "redacted_key_hash": "5b75902b981c136f0aa9966ce68ccc8c1a08b2f50ce34c51c103bb6b6a7f7647",
+    "legal_defense": "Prior_User_Rights_Act",
+    "node": "Panama Lane [93307]",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

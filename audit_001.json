@@ -1,0 +1,29 @@
+{
+    "event_id": "PNL-20260224-001",
+    "node_location": "Panama Lane, Bakersfield (93307)",
+    "project": "Cancan Regional Waste Valorization",
+    "compliance_audit": "BMC \u00a7 8.32.190 / AB 1201",
+    "specimen": "Hermetia illucens (Larval Stage)",
+    "induction_parameters": {
+        "method": "Precision Acoustic Induction",
+        "primary_freq": "650Hz (Sawtooth)",
+        "secondary_freq": "653Hz (Sine)",
+        "duration": "180 minutes"
+    },
+    "analytical_target": {
+        "compound_class": "Secondary Metabolite / Antimicrobial Peptide",
+        "purity_goal": "99.7%",
+        "solvent_path": "Reagent-Grade Isopropyl Alcohol",
+        "contamination_risk": "Phthalate leaching (HDPE/PET interference)"
+    },
+    "sensor_data": {
+        "delta_t_threshold": "< 4\u00b0C",
+        "hyperspectral_fingerprint": "Pending ACS-Grade Calibration",
+        "vision_model": "Hybrid YOLOv12 + ViT"
+    },
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

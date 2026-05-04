@@ -1,0 +1,41 @@
+{
+    "entity": {
+        "name": "CANCAN",
+        "uei": "SSWWJ3SEMZ73",
+        "ein": "39-2261270",
+        "node": "Node 001",
+        "address": "1501 Pearl St, Bakersfield, CA 93305",
+        "executor": "Casey Canfield (Spoxxx2)"
+    },
+    "technology": {
+        "project": "CRC-22 Sovereignty Protocol",
+        "method": "Acoustic Phase-Torsion (Solvent-Free)",
+        "metrics": {
+            "purity": "99.9% Isotopic",
+            "dielectric_constant": 12.821,
+            "phase_alignment": "3900.72 Hz / 3592.03 Hz"
+        },
+        "compliance": [
+            "BMC \u00a7 8.32.190",
+            "SB 1383",
+            "CARB"
+        ]
+    },
+    "submission_meta": {
+        "timestamp": "2026-04-11T10:10:26.862100",
+        "security_protocol": "SHA3-256 Miracle Hash"
+    },
+    "forensic_hash": "7f7fde06fae45b0fa79294f7af340e8a5818bb55fc538006735bd460551334ad",
+    "digital_twin": {
+        "last_capture": "20260410_115207.jpg",
+        "capture_time": "2026-04-10T11:52:10.495187",
+        "node_status": "Active / Extraction in Progress",
+        "taxonomy_applied": "Hybrid YOLOv12 + ViT",
+        "degradation_forecast": "10/25/50-Year Model Staged"
+    },
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

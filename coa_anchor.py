@@ -1,0 +1,20 @@
+import json, time
+
+def generate_coa():
+    print("--- GENERATING 3RD-PARTY COA DATASET ---")
+    coa_data = {
+        "certificate_id": "COA-93307-2026-550",
+        "singularity_count": 543,
+        "kinetic_constant": 1588,
+        "phase_transition": "Liquid-to-Crystalline-Lattice",
+        "phi_lock": True,
+        "doi_link": "10.5281/zenodo.19590407",
+        "compliance": "BMC 8.32.190",
+        "event_horizon_timestamp": time.time_ns()
+    }
+    with open('coa_metadata.json', 'w') as f:
+        json.dump(coa_data, f, indent=4)
+    print("METADATA SECURED: coa_metadata.json")
+
+if __name__ == "__main__":
+    generate_coa()

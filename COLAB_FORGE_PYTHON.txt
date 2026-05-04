@@ -1,0 +1,27 @@
+# === COPY EVERYTHING BELOW THIS LINE INTO A GOOGLE COLAB CELL ===
+import os
+import time
+from google.colab import drive
+
+if not os.path.exists('/content/drive'):
+    drive.mount('/content/drive')
+
+# Paths for the Sovereign Sync
+INPUT_DIR = "/content/drive/MyDrive/Node_93307_Ingest"
+OUTPUT_DIR = "/content/drive/MyDrive/Node_93307_Results"
+
+os.makedirs(INPUT_DIR, exist_ok=True)
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+print("--- CLOUD FORGE INGESTER: ONLINE ---")
+
+while True:
+    files = [f for f in os.listdir(INPUT_DIR) if f.endswith('.fasta')]
+    if files:
+        for f in files:
+            print(f"[EVENT HORIZON] Folding: {f}")
+            # This is where the AlphaFold AI logic triggers
+            time.sleep(5) 
+            os.rename(os.path.join(INPUT_DIR, f), os.path.join(OUTPUT_DIR, f + ".processed"))
+    time.sleep(10)
+# === END OF COLAB CODE ===

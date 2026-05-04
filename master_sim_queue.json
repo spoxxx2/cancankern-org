@@ -1,0 +1,28 @@
+{
+    "node": "Panama Lane",
+    "simulations": [
+        {
+            "id": "ONCO-THICK",
+            "target": "Mutational_Membrane_Piercing"
+        },
+        {
+            "id": "BATT-CYCLE",
+            "target": "Zero_Dendrite_Chitin_Anode"
+        },
+        {
+            "id": "AQI-ADAPT",
+            "target": "Global_Resonance_Stability"
+        },
+        {
+            "id": "AGRO-SELECT",
+            "target": "Pathogen_Vs_Host_Safety"
+        }
+    ],
+    "iterations": "1,000,000,000,000",
+    "priority": "ABSOLUTE_DOMINANCE",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

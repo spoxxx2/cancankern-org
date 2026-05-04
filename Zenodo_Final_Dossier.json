@@ -1,0 +1,27 @@
+{
+    "title": "Forensic Proof of Acoustic-Induced Bicyclic Peptide V5.1",
+    "creators": [
+        {
+            "name": "Canfield, Casey Lee",
+            "affiliation": "Founder & Executor, Cancan"
+        }
+    ],
+    "description": "Integrated dataset validating V5.1 Bicyclic Infinity Knot. Results confirm 12.32 pI and thermodynamic spontaneity at -3C. Frequencies redacted for IP protection.",
+    "keywords": [
+        "Sovereign Architect",
+        "Cationic Hook",
+        "Bakersfield Pilot",
+        "Peptide Synthesis"
+    ],
+    "metrics": {
+        "isoelectric_point": 12.32,
+        "snap_temp": "-3.0C",
+        "velocity": "1588 m/s"
+    },
+    "legal": "USPTO #64/016,955 | BMC \u00a7 8.32.190",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

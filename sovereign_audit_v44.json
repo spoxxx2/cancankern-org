@@ -1,0 +1,25 @@
+{
+    "detection_event": {
+        "timestamp": "Sat Apr  4 12:09:41 2026",
+        "node": "1501_PEARL",
+        "gps": "35.3733\u00b0 N, 119.0187\u00b0 W",
+        "aqi_kern": 42,
+        "compliance": "BMC_8.32.190_SECURE"
+    },
+    "panoptic_sieve": {
+        "larvae_density": "2000_BSFL_PER_BIN",
+        "myco_activity": "HIGH_ENZYMATIC_FLUX",
+        "ram_status": "STABLE"
+    },
+    "temporal_forecast": {
+        "10y": "Nutrient_Rich_Soil",
+        "50y": "Carbon_Negative_Anchor",
+        "100y": "Aurelian_Forest_Legacy"
+    },
+    "founder_directive": "Waste is simply a resource in the wrong place; our mission is to build the bridge that brings it back home.",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

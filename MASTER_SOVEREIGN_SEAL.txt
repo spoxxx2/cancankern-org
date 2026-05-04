@@ -1,0 +1,17 @@
+7b24d423e6a867d9a06867596037b14f424cb2ae331f6b6d7d89ae082dbc3152  FINAL_SOVEREIGN_MANIFEST.json
+Sovereign Asset Locked at 12.1 Sigma: Fri Apr 17 23:38:53 PDT 2026
+bd0ecfbdcf4b865c732ed2865fd011c4a6df044a2dd1932ba49e3e5684dbfaf4  zenodo_metadata.json
+999B Monte Carlo EVENT HORIZON: 12.1 Sigma
+Vibrational Signature: -1.88 Hz Lock Confirmed
+Hardware Anchor: Fender 10W @ Node 93307
+Sovereign Asset Excalibur: INCONTESTABLE.
+8795f76986cd8fde977806e683f8a0c30cbd35551ea19d080a699ef5f2522b42  DEEP_EVIDENCE_VAULT.json
+689ab128a86e57f258395b90aa5c74d746c9b3f0a547f512c14002022a6f3b46  attorney_evidence_summary.json
+689ab128a86e57f258395b90aa5c74d746c9b3f0a547f512c14002022a6f3b46  attorney_evidence_summary.json
+Audit: Sat Apr 18 00:23:04 2026 - 12.1 Sigma Event Horizon Locked.
+[2026-04-18 00:52:35] 12.1 SIGMA EVENT DETECTED
+Location: 1501 Pearl St, 93307
+Asset: 907.04 Da Excalibur
+Sovereign Hash: ac0e6d53c29a1755b7cc1490401db4ab5c79e554cd36c674533a51ce7e7f3c03
+Status: 8-Tone Lattice Verified / Paracellular Slipstream Ready.
+--------------------------------------------------

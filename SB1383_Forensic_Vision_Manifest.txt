@@ -1,0 +1,16 @@
+CANCAN FORENSIC AUDIT MANIFEST
+--------------------------------------------------
+REGULATORY AUTHORITY: SB 1383 / SB 54
+JURISDICTION: City of Bakersfield, CA
+--------------------------------------------------
+
+This node utilizes Panoptic Segmentation to categorize 
+debris streams into the following four-level taxonomy:
+1. MATERIAL: Polymer, Ferrous, Cellulose, Organic
+2. SUB-TYPE: PET #1, Aluminum, Corrugated, BSFL-Feed
+3. CONDITION: Soiled, Crushed, Intact, Wet
+4. DISPOSAL: Circular Economy, Incineration, Compost
+
+Every detection event is logged as a Digital Twin metadata 
+packet, ensuring 100% forensic transparency for municipal 
+compliance audits.

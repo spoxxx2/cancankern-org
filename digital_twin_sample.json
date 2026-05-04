@@ -1,0 +1,14 @@
+{
+    "asset_id": "RSM-2026-ALPHA-01",
+    "validation_metrics": {
+        "sigma": 12.0,
+        "compliance": "ASME V&V 40"
+    },
+    "origin": "Panama Lane Node 93307",
+    "status": "BIOSECURE Section 851 Compliant",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

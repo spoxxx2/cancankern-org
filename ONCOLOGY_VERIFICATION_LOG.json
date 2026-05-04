@@ -1,0 +1,16 @@
+--- [NODE 93307: ONCOLOGY BBB-VERIFICATION] ---
+Authority: Spoxxx2 | Target: CNS Glioblastoma
+-----------------------------------------------
+METRIC: BBB-Shuttle Transcytosis
+SUCCESS: 99.40%
+RESONANCE: 29933.63 Hz
+-----------------------------------------------
+METRIC: Selective Apoptosis (Tumor)
+SUCCESS: 92.50%
+RESONANCE: 650 Hz / 20 Hz
+-----------------------------------------------
+METRIC: Off-Target Toxicity (Healthy)
+SUCCESS: 0.01%
+RESONANCE: Acoustic-Inert
+-----------------------------------------------
+STATUS: ONCOLOGY PORTFOLIO VITRIFIED & VERIFIED

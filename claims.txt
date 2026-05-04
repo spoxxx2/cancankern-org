@@ -1,0 +1,4 @@
+CLAIMS:
+1. A method for synthesizing BBB-permeable peptides using 650 Hz sawtooth induction.
+2. The 3-hour extraction window as calibrated at Panama Lane Node.
+3. Use of YOLOv12 taxonomy for material-specific induction.

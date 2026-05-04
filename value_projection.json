@@ -1,0 +1,11 @@
+{
+    "inventor": "Casey Lee Canfield",
+    "2030_ip_target": "110M",
+    "2030_soil_target": "2000 Tons",
+    "status": "Sovereign Growth Active",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

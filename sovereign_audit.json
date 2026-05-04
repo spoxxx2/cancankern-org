@@ -1,0 +1,13 @@
+{
+    "node": "Panama Lane / 93307",
+    "compliance": "BMC 8.32.190",
+    "status": "SOVEREIGN_LATTICE_ACTIVE",
+    "acoustic_trigger": "650Hz_Sawtooth_v2",
+    "patent_status": "LOCKED_UNTIL_FEE_PAID",
+    "safety_warning": "DO NOT UPLOAD TO ZENODO WITHOUT USPTO_ID",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

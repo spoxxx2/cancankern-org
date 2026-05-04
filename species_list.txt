@@ -1,0 +1,15 @@
+BSFL_Gen2
+Black_Widow_X
+Brown_Recluse_Beta
+Funnel_Web_Alpha
+Blue_Weaver_Crab_V2
+King_Cobra_Proteal
+Komodo_Dragon_LD50
+Gila_Monster_Saliva
+Box_Jelly_Chiral
+Cone_Snail_Conotoxin
+Giant_Millipede_HCN
+Bullet_Ant_Sting
+Honeybee_Apitoxin
+Monitor_Lizard_Alpha
+Sea_Wasp_Delta

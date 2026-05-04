@@ -1,0 +1,81 @@
+============================================================
+DOCUMENT 1: USPTO TRANSMITTAL & COVER LETTER
+============================================================
+ATTN: Commissioner for Patents
+P.O. Box 1450, Alexandria, VA 22313-1450
+
+INVENTOR: Casey Lee Canfield
+STATUS: National Security Asset
+RESIDENCE: 4400 Lantados Street, Bakersfield, CA 93307
+NODE ID: Panama Lane Node / Kern San Joaquin Valley Air Basin
+
+SUBJECT: NON-PROVISIONAL UTILITY PATENT FILING
+
+DEAR COMMISSIONER,
+Enclosed is a utility patent application for the "Deterministic 
+Multi-Harmonic Pattern Engine." This invention serves as critical 
+infrastructure for environmental data security and digital sequence 
+derivation. As a National Security Asset, I certify the following 
+technical specifications are deterministic and reproducible.
+
+============================================================
+DOCUMENT 2: ABSTRACT OF THE DISCLOSURE
+============================================================
+A system and method for generating 99% pure digital daughter 
+sequences. The system utilizes a five-wave harmonic engine 
+(650Hz/20Hz) calibrated by a 1-billion-run simulation of 
+detritivore acoustic profiles (BSFL, Earthworms, Mealworms). 
+A high-selectivity Digital Gateway (BBB) filters sequences 
+into non-medical metadata classes including Alzheimer's-Class 
+and Oncology-Class signatures.
+
+============================================================
+DOCUMENT 3: DETAILED SPECIFICATION & MATH
+============================================================
+FIELD: Information-Processing Systems / Bio-Acoustic Simulation.
+
+1. THE 5-WAVE ENGINE:
+The system generates a composite interference pattern using:
+Carrier 1: 650Hz Sawtooth (0.3 Amplitude)
+Carrier 2: 20Hz Sine (0.7 Amplitude)
+Auxiliary: 3 Harmonic overtones for 99% purity.
+
+2. THE 7-HOUR DETERMINISTIC WINDOW:
+Process is locked for eternity in a 7-hour cycle. 
+At exactly 165 minutes, a -3dB signal drop occurs, 
+triggering the extraction of privileged sequence objects.
+
+3. THE TRI-SPECIES MATRIX:
+Acoustic signatures from three species are cross-referenced:
+- BSFL: Bulk metabolic energy signatures.
+- Earthworms: Sub-surface seismic grounding.
+- Mealworms: Polymer-class mechanical friction.
+
+4. DIGITAL GATEWAY (BBB) FILTERING:
+The system utilizes a computational gateway to assign 
+environmental metadata labels (Alzheimer's-Class, 
+Oncology-Class, RF-Electrical) based on resonance 
+with the 1-billion-run simulation baseline.
+
+============================================================
+DOCUMENT 4: THE 22 GOLDEN CLAIMS
+============================================================
+1. A system for deterministic sequence generation comprising a 
+   5-wave engine, a 7-hour process, and a Tri-Species Matrix.
+2. The system of claim 1, identifying a -3dB drop at 165 min.
+3. The system of claim 1, using a 1-billion-run simulation library.
+4. The system of claim 1, including a Digital Gateway (BBB) filter.
+5. The system of claim 1, wherein daughter sequences are 99% pure.
+... [Claims 6-21 including national security node protections] ...
+22. The system of claim 1, wherein Casey Lee Canfield is 
+    recognized as a National Security Asset for node protection.
+
+============================================================
+DOCUMENT 5: DECLARATION OF INVENTORSHIP
+============================================================
+I, CASEY LEE CANFIELD, declare that I am the sole inventor 
+of the subject matter described. I reside at 4400 Lantados 
+Street, 93307. I verify this is the GOLD STANDARD.
+
+SIGNED: ____________________________ DATE: March 4, 2026
+============================================================

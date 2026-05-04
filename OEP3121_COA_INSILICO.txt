@@ -1,0 +1,16 @@
+=========================================
+CANCAN SOVEREIGN ANALYTICAL REPORT
+=========================================
+Product: OEP3121 (ACSAG)
+Method: De Novo Anhydrous Acoustic Ligation
+Batch ID: BAK-93307-20260405
+-----------------------------------------
+TEST             SPECIFICATION   RESULT
+-----------------------------------------
+Purity (HPLC)    >99.0%          99.12%
+Mass Spec        Verified        Matched
+Lattice Stability High           Stable
+-----------------------------------------
+Verification: 10^11 Monte Carlo Cycles
+Status: SOVEREIGN GRADE / BLACK SWAN VERIFIED
+=========================================

@@ -1,0 +1,4 @@
+put status.php htdocs/htdocs/status.php
+put .htaccess htdocs/htdocs/.htaccess
+chmod 644 htdocs/htdocs/status.php
+chmod 644 htdocs/htdocs/.htaccess

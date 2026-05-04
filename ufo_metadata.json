@@ -1,0 +1,8 @@
+{
+  "unit": "SKY-SKIFF-01",
+  "status": "SILENT_LIFT_ACTIVE",
+  "acoustic_profile": "0.0dB_PHASE_CANCEL",
+  "current_frequency": "650Hz_SAW",
+  "compliance_buffer": "BMC § 8.32.190_ALT",
+  "forecast": "100% Diversion Probability at 50ft Altitude"
+}

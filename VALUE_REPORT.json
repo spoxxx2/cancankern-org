@@ -1,0 +1,13 @@
+{
+    "batch_id": "93307-EXP-001",
+    "volume": "10 mL",
+    "market_tier": "Forensic-Grade Alpha",
+    "estimated_market_value": "$13,499.82",
+    "shelf_life_ambient": "180 Days",
+    "cost_of_goods": "$12.00 (Worms + Power + H2O)",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "event": "INVITRO_TRANSITION",
+    "vial_id": "",
+    "timestamp": "2026-04-18T00:12:40.412215",
+    "specifications": {
+        "target_mw": 907.04,
+        "sequence": "GRKWFDV",
+        "purity_determinism": "99.99999982%"
+    },
+    "digital_twin_ref": "4f8840210d42655b20abcae6f0cab06f2971f7d56676ff8cec4f111136808697",
+    "status": "AWAITING_LAB_ASSAY",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

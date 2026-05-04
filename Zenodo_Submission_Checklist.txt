@@ -1,0 +1,7 @@
+### ## ZENODO DOI SUBMISSION CHECKLIST (NODE 1501-P)
+1. [ ] Upload 'Genesis_Mission_Evidence_V82.tar.gz'
+2. [ ] Paste 'Miracle Abstract' into Description
+3. [ ] Select 'Open Access' / CC-BY-4.0
+4. [ ] In the 'DOI' section: Click 'Get a DOI now!' to reserve it.
+5. [ ] RECORD RESERVED DOI HERE: _______________
+6. [ ] HIT PUBLISH.

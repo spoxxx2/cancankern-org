@@ -1,0 +1,17 @@
+{
+    "batch_id": "CAN-20260425",
+    "architect": "Casey Lee Canfield",
+    "location": "Node 1501-P, Bakersfield, CA 93305",
+    "sequence": "RRSCFLCRPR",
+    "pI_verified": 12.32,
+    "snap_temp": -3.0,
+    "velocity": "1588 m/s",
+    "compliance": "BMC \u00a7 8.32.190",
+    "patent": "USPTO #64/016,955 [REDACTED]",
+    "status": "ELITE_LOCKED",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

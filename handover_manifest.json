@@ -1,0 +1,25 @@
+{
+    "node_id": "93307",
+    "authority": "Spoxxx2",
+    "compliance": "BMC \u00a7 8.32.190",
+    "assets": [
+        {
+            "id": "PHX-ULTIMA-01",
+            "status": "Vitrified",
+            "valuation": "$142.5M",
+            "hash": "HEX-000-ALPHA"
+        },
+        {
+            "id": "AETERNA-RESET",
+            "status": "Resonance-Locked",
+            "valuation": "$45.0M",
+            "hash": "HEX-000-BETA"
+        }
+    ],
+    "escrow_status": "Acoustic Ciphers Encrypted",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

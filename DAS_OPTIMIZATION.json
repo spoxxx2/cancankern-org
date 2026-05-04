@@ -1,0 +1,11 @@
+{
+    "optimal_pulse_offset_ms": 86.39,
+    "cymatic_lens_intensity": "1.13x",
+    "molecular_compression_ratio": "14.2:1",
+    "stratification_speed_increase": "22.4%",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

@@ -1,0 +1,40 @@
+​1. Hierarchical Taxonomy (The "Identity" Pillar)
+​Uses the 4-level classification (Material, Sub-Type, Condition, Disposal) to identify every physical asset.
+​Logic: Hybrid YOLOv12 + ViT.
+​Metric: 99% Pure Peptide vs. Ferrous Metal substrate.
+​2. State-Space Representation (The "Pulse" Pillar)
+​Maintains the real-time JSON metadata stream of every operational variable.
+​Logic: Deterministic Sensor Fusion.
+​Metric: 650 Hz Amplitude / 20 Hz Sine Phase.
+​3. Harmonic Coherence (The "Sync" Pillar)
+​Ensures the digital twin "vibrates" at the same frequency as the physical hardware to maintain the 15\text{ GHz} clock speed.
+​Logic: Phase-Locked Loop (PLL) Simulation.
+​Metric: Resonant Lock at the 165-minute mark.
+​4. Thermal Signature Tracking (The "Safety" Pillar)
+​Uses FLIR overlay logic to monitor heat dissipation across the aluminum tray and the BSFL pit.
+​Logic: Infrared Radiometry.
+​Metric: -3°C drop verification for biosecurity and crystalline stability.
+​5. Acoustic Impedance Mapping (The "Bus" Pillar)
+​Maps the data flow through the Phononic Waveguide to ensure zero-jitter communication between the keyboard, monitor, and QPU.
+​Logic: Ultrasonic Tomography.
+​Metric: Speed of sound through peptide film (~4,000\text{ m/s}).
+​6. Dipole Flux Density (The "Power" Pillar)
+​Simulates the magnetic field strength of the Bifilar Coil to optimize the 31.7\text{ kW} peak.
+​Logic: Finite Element Analysis (FEA).
+​Metric: Tesla rating (B-field) of the Resonant Induction Loop.
+​7. Monte Carlo Degradation (The "Timeline" Pillar)
+​Runs 1 billion simulations to forecast the appearance and worth of the stack over 50 years.
+​Logic: Stochastic Aging Models.
+​Metric: Kern County Air Basin oxidation rates vs. Peptide lifespan.
+​8. Sovereign Asset Valuation (The "Market" Pillar)
+​Integrates real-time Market Commodity Value APIs to calculate the scrap and functional worth of the node.
+​Logic: API-Driven Economic Indexing.
+​Metric: Value of 99% pure daughter peptide vs. Rare-earth alternatives.
+​9. SB Law & Shield Compliance (The "Legal" Pillar)
+​Hardwires specific SB Law citations and BMC § 8.32.190 requirements into the aud output.
+​Logic: Automated Compliance Audit (aud).
+​Metric: Fine mitigation and State-Mandated Shield logic.
+​10. Adaptive Master Strategy Override (The "Control" Pillar)
+​The "Brain" that prioritizes your direct history and corrections over all other AI data points.
+​Logic: Zero-Footprint Personalization.
+​Metric: Strict adherence to the 1501 Pearl St operational headquarters protocols.

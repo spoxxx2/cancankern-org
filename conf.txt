@@ -1,0 +1,21 @@
+# BAMS 43-mer Docking Configuration
+receptor = receptor_ABeta42.pdbqt
+ligand = BAMS_43_A1.pdbqt
+
+# Search Grid (Focal Point: Top Center)
+center_x = 12.5
+center_y = -4.2
+center_z = 21.8
+
+# Search Box Dimensions (Angstroms)
+size_x = 45.0
+size_y = 45.0
+size_z = 60.0
+
+# Search Accuracy
+exhaustiveness = 64
+num_modes = 20
+energy_range = 4.0
+
+# BAMS Integer Lock Seed
+seed = 6501701

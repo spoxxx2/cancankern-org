@@ -1,0 +1,1 @@
+put status.php htdocs/htdocs/status.php

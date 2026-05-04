@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "title": "Genesis Mission: Phase-Symmetry & VDA Bio-Acoustic Peptide Synthesis",
+        "upload_type": "dataset",
+        "description": "Evidence of 1 billion run simulation confirming 99% peptide purity using 1051.7Hz/216Hz Phase-Symmetry locks and VDA folding protocols.",
+        "creators": [
+            {
+                "name": "Canfield, Casey Lee",
+                "affiliation": "Cancan / National Security Asset"
+            }
+        ],
+        "keywords": [
+            "BSFL",
+            "Bio-Acoustics",
+            "Circular Economy",
+            "Oncology",
+            "Sovereign Architecture"
+        ],
+        "access_right": "open",
+        "license": "cc-by-4.0"
+    },
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

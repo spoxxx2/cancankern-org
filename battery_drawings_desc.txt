@@ -1,0 +1,13 @@
+DRAWINGS FOR TRINITY-Ω BATTERY (FILING #4)
+INVENTOR: CASEY LEE CANFIELD
+DATE: MARCH 6, 2026
+NODE: PANAMA LANE (93307)
+
+FIG 5: VACUUM SUBLIMATION AND CRYSTALLINE FROST FORMATION.
+Detailed view of the 88.2 Peptide lattice undergoing phase transition 
+at -78.5°C under 10^-3 Torr vacuum, showing the piezoelectric scaffolding 
+responsible for 18,500 Wh/kg energy density.
+
+FIG 2: BIFILAR COIL HARVESTER.
+Schematic of the 144-turn harmonic harvester aligned to the 
+650 Hz / 20 Hz interference stack.

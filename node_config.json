@@ -1,0 +1,14 @@
+{
+    "node_id": "PANAMA-LANE-01",
+    "vision_stack": "Hybrid YOLOv12 + ViT",
+    "taxonomy": "Material -> Sub-Type -> Condition -> Disposal",
+    "os_env": "Termux-Android-Azure-Link",
+    "extraction_logic": "3-Hour Pulsed Induction",
+    "thermal_limit": "4\u00b0C",
+    "aqi_mask_threshold": 100,
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

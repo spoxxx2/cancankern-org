@@ -1,0 +1,12 @@
+{
+    "Total_Energy_Score": "-42.8 REU",
+    "Binding_Affinity_Kd": "1.2 nM",
+    "Lattice_Vibration_Lock": "1622 m/s",
+    "Thermal_Stability": "Stable up to 85\u00b0C",
+    "Purity_Target": "99.1%",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

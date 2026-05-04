@@ -1,0 +1,20 @@
+EXPANDED PATENT CLAIMS - PROJECT: DAUGHTER PEPTIDE (CNS-ACTIVE)
+
+CLAIM 1 (Composition): A synthetic peptide composition comprising a 
+thermodynamic stability profile characterized by a Gibbs Free Energy 
+(ΔG) between -450 kJ/mol and -600 kJ/mol.
+
+CLAIM 2 (Capability): The peptide of Claim 1, further comprising a 
+lipophilic surface-volume ratio optimized for Receptor-Mediated 
+Transcytosis (RMT) across the Blood-Brain Barrier (BBB).
+
+CLAIM 3 (Production): A method of biological synthesis using a 
+Diptera-based bioreactor (specifically Hermetia illucens) utilizing 
+metabolic flux to achieve the stability coordinates of Claim 1.
+
+CLAIM 4 (Extraction): A zero-solvent purification process utilizing 
+Vacuum-Ultrasonic cavitation followed by Dry Ice sublimation to isolate 
+the peptide of Claim 1 at a purity exceeding 99.5%.
+
+CLAIM 5 (Platform): The use of a 13-engine vectorized MD simulation to 
+maintain structural integrity during a 50-year ambient storage period.

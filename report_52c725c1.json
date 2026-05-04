@@ -1,0 +1,22 @@
+{
+    "report_id": "CAN-CAN-52c725c1",
+    "timestamp": "2026-03-24 00:08:08",
+    "compliance_tier": "SB 1383 / SB 54 Forensic Grade",
+    "diversion_metrics": {
+        "input_type": "Organic Fraction / Cellulose",
+        "process": "Bio-Acoustic Peptide Induction (650Hz)",
+        "diversion_efficiency": "98.4%",
+        "carbon_offset_score": 0.92
+    },
+    "output_value": {
+        "peptide_class": "Gallerimycin-X / Tenecin-1",
+        "purity_certified": "99.7%",
+        "estimated_spot_price_usd": 450.0
+    },
+    "node_hq": "93305-BAKERSFIELD-CA",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

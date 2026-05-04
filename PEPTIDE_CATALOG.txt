@@ -1,0 +1,28 @@
+
+ANALGESIC & RECOVERY TIER (RUO)
+----------------------------------
+PRODUCT ID: CAN-ARA-290 (Neural)
+TARGET: Neuropathic Pain / IRR
+PRICE: $550/5mg
+
+PRODUCT ID: CAN-TB-500 (Systemic)
+TARGET: Inflammation / Muscle Repair
+PRICE: $300/10mg
+
+PRODUCT ID: CAN-Z-LOCK (Potency)
+TARGET: Non-Opioid Pain Blockade
+PRICE: $1,200/2mg (Premium Asset)
+
+BBB-SHUTTLE TIER (LICENSING ONLY)
+----------------------------------
+PRODUCT ID: BBB-ANG-LOCK (Precision)
+TARGET: LRP1 Receptor / Neuro-Oncology
+PRICE: $2,500/mg (Licensing Required)
+
+PRODUCT ID: BBB-TAT-FORCE (Aggressive)
+TARGET: Universal Delivery / Large Payloads
+PRICE: $1,800/mg
+
+PRODUCT ID: BBB-PHI-SHUTTLE (Phi-Lock)
+TARGET: High-Efficiency / Low Toxicity
+PRICE: $3,200/mg (Exclusive Asset)

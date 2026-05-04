@@ -1,0 +1,17 @@
+sftp> ls -l htdocs/htdocs
+drwx---r-x    3 67636169 600            62 Jan  8 16:24 cancan_data
+-rw----r--    1 67636169 600            60 Jan 10 06:56 found_you.php
+-rw----r--    1 67636169 600          9052 Jan  8 16:34 index.html
+-rw----r--    1 67636169 600          1136 Jan  8 16:22 leaderboard.php
+-rw----r--    1 67636169 600          1698 Jan  8 16:27 login.html
+-rw----r--    1 67636169 600          2301 Jan  8 16:30 manual.html
+-rw----r--    1 67636169 600           641 Jan  8 16:30 newsfeed.php
+-rw----r--    1 67636169 600           649 Jan  8 15:27 portal.php
+-rw----r--    1 67636169 600          1508 Jan  8 16:27 register.html
+-rw----r--    1 67636169 600           967 Jan  8 16:26 register.php
+-rwxr-xr-x    1 67636169 600           539 Jan 10 07:28 remote_daemon.py
+-rw----r--    1 67636169 600          1250 Jan  8 16:32 report.php
+-rw----r--    1 67636169 600          1325 Jan  8 16:28 scout_leaderboard.php
+-rw----r--    1 67636169 600          1337 Jan  8 16:28 scout_rankings.php
+-rw----r--    1 67636169 600          2154 Jan  8 16:33 tech.html
+-rw----r--    1 67636169 600           785 Jan  8 15:28 upload.php

@@ -1,0 +1,8 @@
+{
+  "batch_id": "EXCAL-20260428-V5.2",
+  "location": "1501 Pearl St",
+  "target_mw": [4752.67, 1184.34],
+  "purity_threshold": 0.9985,
+  "compliance": "SB 1383 / ACS",
+  "sovereign_hash": "c9782c43bebb3741"
+}

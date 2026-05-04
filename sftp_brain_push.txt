@@ -1,0 +1,2 @@
+put remote_daemon.py htdocs/htdocs/remote_daemon.py
+chmod 755 htdocs/htdocs/remote_daemon.py

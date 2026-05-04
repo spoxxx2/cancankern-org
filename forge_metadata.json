@@ -1,0 +1,25 @@
+{
+    "detection_event": "20260411_PureForge_CRC22",
+    "node_id": "Panama_Lane_93307",
+    "resource_group": "cancan-rg",
+    "audit_compliance": "BMC \u00a7 8.32.190",
+    "biomass": {
+        "type": "Earthworm",
+        "condition": "24hr_Fasted",
+        "state": "Post-Resonance"
+    },
+    "process_log": {
+        "phi_lock_hz": 3592.03,
+        "thermal_anchor_hz": 20.0,
+        "purity_target": 0.991,
+        "solvent_use": false
+    },
+    "forensic_hash": "SHA3-256_LOCKED_SOVEREIGN",
+    "environmental_impact_score": 98.4,
+    "50_year_forecast": "Stable_Inert_Carbon",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

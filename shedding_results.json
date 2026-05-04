@@ -1,0 +1,65 @@
+[
+    {
+        "day": 1,
+        "mother_integrity": 93.89,
+        "scout_yield": 4.2187
+    },
+    {
+        "day": 2,
+        "mother_integrity": 89.85,
+        "scout_yield": 4.0373
+    },
+    {
+        "day": 3,
+        "mother_integrity": 85.99,
+        "scout_yield": 3.8637
+    },
+    {
+        "day": 4,
+        "mother_integrity": 82.29,
+        "scout_yield": 3.6976
+    },
+    {
+        "day": 5,
+        "mother_integrity": 78.75,
+        "scout_yield": 3.5386
+    },
+    {
+        "day": 6,
+        "mother_integrity": 75.37,
+        "scout_yield": 3.3864
+    },
+    {
+        "day": 7,
+        "mother_integrity": 72.13,
+        "scout_yield": 3.2408
+    },
+    {
+        "sovereign_boost": {
+            "v_constant": "1588 m/s",
+            "rank": "400/100",
+            "phi": 1.618
+        }
+    },
+    {
+        "sovereign_boost": {
+            "v_constant": "1588 m/s",
+            "rank": "400/100",
+            "phi": 1.618
+        }
+    },
+    {
+        "sovereign_boost": {
+            "v_const": "1588 m/s",
+            "rank": "400/100",
+            "phi": 1.618
+        }
+    },
+    {
+        "sovereign_boost": {
+            "v_const": "1588 m/s",
+            "rank": "400/100",
+            "phi": 1.618
+        }
+    }
+]

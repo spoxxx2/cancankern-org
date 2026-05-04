@@ -1,0 +1,896 @@
+/data/data/com.termux/files/home/storage/shared:
+Alarms
+Android
+Audiobooks
+Audit_Exports
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+cancan-website
+dashboard.html
+termux-plugin_execution_command.log
+
+/data/data/com.termux/files/home/storage/shared/Alarms:
+
+/data/data/com.termux/files/home/storage/shared/Android:
+data
+media
+obb
+
+/data/data/com.termux/files/home/storage/shared/Android/media:
+com.facebook.katana
+com.facebook.orca
+
+/data/data/com.termux/files/home/storage/shared/Android/media/com.facebook.katana:
+
+/data/data/com.termux/files/home/storage/shared/Android/media/com.facebook.orca:
+
+/data/data/com.termux/files/home/storage/shared/Android/obb:
+com.jackintheboxinc.JackMobileApp
+com.jfgame.Fk
+com.sec.android.app.samsungapps
+com.tripledot.solitaire
+com.ukhjishdjsh.ughuiwgdjkhds
+com.uywgpopjsbhdwyhuuw.games
+com.ywyjshduwihjsds.games
+
+/data/data/com.termux/files/home/storage/shared/Android/obb/com.jackintheboxinc.JackMobileApp:
+
+/data/data/com.termux/files/home/storage/shared/Android/obb/com.jfgame.Fk:
+
+/data/data/com.termux/files/home/storage/shared/Android/obb/com.sec.android.app.samsungapps:
+
+/data/data/com.termux/files/home/storage/shared/Android/obb/com.tripledot.solitaire:
+
+/data/data/com.termux/files/home/storage/shared/Android/obb/com.ukhjishdjsh.ughuiwgdjkhds:
+
+/data/data/com.termux/files/home/storage/shared/Android/obb/com.uywgpopjsbhdwyhuuw.games:
+
+/data/data/com.termux/files/home/storage/shared/Android/obb/com.ywyjshduwihjsds.games:
+
+/data/data/com.termux/files/home/storage/shared/Audiobooks:
+
+/data/data/com.termux/files/home/storage/shared/Audit_Exports:
+EXHIBIT_A_FORENSIC_LOGS.csv
+fifty_year_forecast.py
+municipal_invoice.py
+
+/data/data/com.termux/files/home/storage/shared/DCIM:
+Camera
+CapCut
+Facebook
+Screenshots
+
+/data/data/com.termux/files/home/storage/shared/DCIM/Camera:
+20260114_175427.jpg
+20260114_175643.jpg
+20260114_175659.jpg
+20260114_181358.jpg
+20260114_181510.jpg
+20260114_181520.jpg
+20260114_181609.jpg
+20260114_181631.jpg
+20260115_074948.jpg
+20260115_101321.jpg
+20260115_101341.jpg
+20260115_180006.jpg
+20260115_180014.jpg
+20260115_180022.jpg
+20260115_180042.jpg
+20260115_180707.jpg
+20260115_180732.jpg
+20260115_180742.jpg
+20260115_182033.jpg
+20260115_182040.jpg
+20260115_182047.jpg
+20260115_182053.jpg
+
+/data/data/com.termux/files/home/storage/shared/DCIM/CapCut:
+
+/data/data/com.termux/files/home/storage/shared/DCIM/Facebook:
+
+/data/data/com.termux/files/home/storage/shared/DCIM/Screenshots:
+Screenshot_20260108_104235_Gmail.jpg
+Screenshot_20260111_181642_Chrome.jpg
+Screenshot_20260111_190309_IONOS.jpg
+Screenshot_20260111_193524_Chrome.jpg
+Screenshot_20260111_194707_Chrome.jpg
+Screenshot_20260111_195856_Chrome.jpg
+Screenshot_20260111_211553_Chrome.jpg
+Screenshot_20260111_214830_Chrome.jpg
+Screenshot_20260111_215544_Termux.jpg
+Screenshot_20260112_070829_Chrome.jpg
+Screenshot_20260112_071211_Chrome.jpg
+Screenshot_20260112_075747_Chrome.jpg
+Screenshot_20260112_081654_Chrome.jpg
+Screenshot_20260112_082140_IONOS.jpg
+Screenshot_20260112_085034_Chrome.jpg
+Screenshot_20260112_091832_Chrome.jpg
+Screenshot_20260112_093943_Chrome.jpg
+Screenshot_20260112_122822_One UI Home.jpg
+Screenshot_20260112_125726_Chrome.jpg
+Screenshot_20260112_160717_Chrome.jpg
+Screenshot_20260112_162204_Chrome.jpg
+Screenshot_20260112_162226_Chrome.jpg
+Screenshot_20260112_162602_IONOS.jpg
+Screenshot_20260112_162856_IONOS.jpg
+Screenshot_20260112_170058_Chrome.jpg
+Screenshot_20260112_171931_Chrome.jpg
+Screenshot_20260112_171951_Chrome.jpg
+Screenshot_20260112_211557_Chrome.jpg
+Screenshot_20260112_221642_Chrome.jpg
+Screenshot_20260113_100641_Chrome.jpg
+Screenshot_20260113_101441_Chrome.jpg
+Screenshot_20260113_101659_Chrome.jpg
+Screenshot_20260113_132025_Chrome.jpg
+Screenshot_20260113_133936_Chrome.jpg
+Screenshot_20260113_145156_IONOS.jpg
+Screenshot_20260113_145739_Chrome.jpg
+Screenshot_20260113_145843_IONOS.jpg
+Screenshot_20260113_192103_Chrome.jpg
+Screenshot_20260113_193426_Chrome.jpg
+Screenshot_20260114_004508_IONOS.jpg
+Screenshot_20260114_004858_IONOS.jpg
+Screenshot_20260114_060737_Chrome.jpg
+Screenshot_20260114_062158_Chrome.jpg
+Screenshot_20260114_210712_Postgres Client.jpg
+Screenshot_20260115_181535_Messages.jpg
+
+/data/data/com.termux/files/home/storage/shared/Documents:
+Scan 07 Nov 25 · 03·44·50.collection
+
+/data/data/com.termux/files/home/storage/shared/Download:
+2.20.19.apk
+20251228_101328.PDF
+20260112_181756.jpg
+20260112_181805.jpg
+20260112_181816.jpg
+20260112_182252.jpg
+20260112_182302.jpg
+20260112_182309.jpg
+20260112_183215.jpg
+20260112_183226.jpg
+20260112_183236.jpg
+20260112_184826.jpg
+20260112_184835.jpg
+20260112_185117.jpg
+20260112_185127.jpg
+20260112_185223.jpg
+20260112_185241.jpg
+20260112_185409.jpg
+20260112_185418.jpg
+20260112_190043.jpg
+20260112_190050.jpg
+20260112_190437.jpg
+20260112_190448.jpg
+20260112_190455.jpg
+20260112_190523.jpg
+20260112_190547.jpg
+20260112_190932.jpg
+20260112_190957.jpg
+20260112_191034.jpg
+20260112_191100.jpg
+20260112_191118.jpg
+20260112_191132.jpg
+20260112_191231.jpg
+20260112_191238.jpg
+20260112_191248.jpg
+20260112_191312.jpg
+20260112_191330.jpg
+2032025-revocations-irc-501c3-determinations.xlsx
+954.pdf
+AADConnectProvisioningAgentSetup (1).exe
+AADConnectProvisioningAgentSetup.exe
+Accounts.csv
+Adobe Acrobat
+Adobe Scan Dec 16, 2025.pdf
+Approval - CF 889 (12_23).pdf
+BAKERSFIELD_MASTER_LEDGER.csv
+Bakersfield_Forensic_Map.kml
+Bakersfield_Matrix_Sector275
+BeeTV_4.4.3-latest.apk
+Bill Gates - Source Code (2025) [audiobook]
+Billboard Hot 100 Singles Chart (22.11.2025) Mp3 (320kbps) [Hunter]
+CANCAN — Peace of Mind, Delivered Daily.mht
+Calisthenics Playbook for Muscle-ups
+Cancan-backend-1.env.txt
+Cancan.zip
+Cancanwebhook - Project Editor - Apps Script.mht
+Canva
+CapCut v12.9.0
+Civil_Fee_Schedule.pdf
+Confirm access.mht
+Creative Methods in Teaching and Learning - Fostering Teacher-Student Success
+Crosbie L. Microsoft Copilot Studio Step by Step. Customizing Copilot...2026
+DIGITAL_SIGNATURE.txt
+Ditch Your Sh't - Decluttering Your Mindset to Declutter Your Home by Kate Evans
+Doc_Requirements-Writ_Processes.pdf
+EXHIBIT_A_FINAL.csv
+Encyclopedia of Rare Drug Plants - Exploring The World Of Uncommon Medicines by Craig Cowden
+Entity Registration Checklist.pdf
+Eric Clapton - Journeyman Deluxe Edition (2025) Mp3 (320kbps) [Hunter]
+F-Droid.apk
+GameVault.apk
+Ghosh A. Modern Power System 2025
+How to Work with Complicated People - Strategies for Effective Collaboration with (Nearly) Anyone
+JUWA.apk
+JUWA2.0_Client.apk
+James Clear - Atomic Habits
+Kc_251228_005903.pdf (1).msg
+Kc_251228_005903.pdf.msg
+Lock Picking for Beginners - A Complete Step-by-Step Visual Guide on How to Pick Locks with Simple Tools
+MAGI RE Packet.pdf
+MANIFEST.txt
+MC Reminder Notice.pdf
+Microsoft Copilot v30.0.431106001 build 431106001 Premium Mod Apk {CracksHash}
+Neil Young - Rust Never Sleeps & Live Rust [320-Bubanee]
+New scenario.blueprint (1).json
+New scenario.blueprint.json
+Norse Mythology audiobook by Neil Gaiman [EarReaders].mp3
+Pirate
+Princing for profit - how to develop a powerful pricing strategy for your business
+Quick Share
+SAM_PUBLIC_MONTHLY_2025_NOV_MODIFIED
+SAM_PUBLIC_MONTHLY_2025_NOV_MODIFIED.zip
+STMT_6850_20251128.pdf
+STMT_b9fc_20251128.pdf
+Screenshot_20250520-182430.png
+Screenshot_20250520-182546(1).PDF
+Screenshot_20250520-182546.PDF
+Screenshot_20250520-182607.PDF
+Screenshot_20251209_095937_Chrome.PDF
+Screenshot_20260105_161521_Chrome.PDF
+Shen J. High-Speed Photography in Fluid Mechanics 2025
+Siete7x - Misunderstood  Rap  West Coast Hip-Hop (2025) 320_kbps Beats⭐
+Smart AudioBook Player v11.6.3 Premium Mod Apk {CracksHash}
+Supa base.env.txt
+Talking to Strangers What We Should Know About the People We Don’t Know Malcom Gladwell
+Tasker.6.5.11.apk
+Tax Exempt Organization Search _ Internal Revenue Service.mht
+Trespass_Arrest_Authorization_Form.pdf
+Untitled design (1).pdf
+Untitled design (2).pdf
+Untitled design.pdf
+Untitled-1.json
+VideoGPT - AI Video Generator v2.1.5 [AppDoze]
+Walter Isaacson - 2023 - Elon Musk (Biography)
+Writ_Declaration.pdf
+app-release.apk
+bakersfield_forensic_20260107_1919.csv
+bakersfield_forensic_20260107_1920.csv
+cancan-dataset-2025-12-31
+cancan-dataset-2025-12-31.zip
+cancancan-62f84f2a8c35.json
+cancankern.org.txt
+cert_7406ab25.pdf
+cert_75b1ab34.pdf
+com.termux.api_1000.apk
+com.termux.api_1001.apk
+com.termux.api_1002.apk
+com.termux.api_1002_src.tar.gz.tar
+com.termux_1022.apk
+copilot_image_1766575691907.jpeg
+data-download-epostcard.zip
+data-sample.jsonl
+digital_twin_log.json
+eo_ca (1).csv
+eo_ca (2).csv
+eo_ca (3).csv
+eo_ca (4).csv
+eo_ca (5).csv
+eo_ca.csv
+eviction_information (1).pdf
+eviction_information.pdf
+f1023ez-approvals-2023.xlsx
+facebook-caseycancan-2025-12-09-AJgFpCMh.zip
+firekirin.apk
+gemini.md
+image_1766126878123.jpeg
+master_strategy.tar.gz
+p15t.epub
+prod-ca-2021 (1).crt
+prod-ca-2021.crt
+render (1).yaml
+render.yaml
+requirements_for_service_of_documents (1).pdf
+requirements_for_service_of_documents.pdf
+sapiens
+sftp.log (1).txt
+sftp.log.txt
+stripe_backup_code.txt
+sync_workspace.js
+teos-data-dictionary-v2.csv
+termux-app_v0.119.0-beta.3+apt-android-7-github-debug_universal.apk
+transcript.html
+vblink777.apk
+
+/data/data/com.termux/files/home/storage/shared/Download/Adobe Acrobat:
+
+/data/data/com.termux/files/home/storage/shared/Download/Bakersfield_Matrix_Sector275:
+20251226_080632.jpg
+20251226_082246.jpg
+20251227_204712.jpg
+20251227_204751.jpg
+20251227_204826.jpg
+20251227_204857.jpg
+20251227_204932.jpg
+20251227_205010.jpg
+20251227_205057.jpg
+20251227_205102.jpg
+20251227_205245.jpg
+20251229_000150.jpg
+20251229_074350.jpg
+20251229_223122.jpg
+20251229_223129.jpg
+20251229_223143.jpg
+20251229_223232.jpg
+20251229_225335.jpg
+20260105_123542.jpg
+20260108_074025.jpg
+20260108_074051.jpg
+20260108_075046.jpg
+20260108_075053_001.jpg
+20260108_075058.jpg
+20260108_075608.jpg
+20260108_082245.jpg
+20260108_084446.jpg
+20260108_085326.jpg
+20260108_085334.jpg
+20260108_094206.jpg
+20260108_101920.jpg
+20260108_121134.jpg
+20260109_185855.jpg
+20260109_185945.jpg
+20260109_190002.jpg
+20260109_190104.jpg
+20260109_190255.jpg
+20260109_190406.jpg
+20260109_190458.jpg
+20260109_190608.jpg
+20260109_190810.jpg
+20260109_190946.jpg
+20260109_191030.jpg
+20260109_191219.jpg
+20260109_191418.jpg
+20260109_191429.jpg
+20260109_191707.jpg
+20260109_192216.jpg
+20260109_192340.jpg
+20260109_192454.jpg
+20260109_194319.jpg
+20260109_194435.jpg
+GODMODE_1767847181.jpg
+
+/data/data/com.termux/files/home/storage/shared/Download/Bill Gates - Source Code (2025) [audiobook]:
+Source Code - 01 - Opening Credits.mp3
+Source Code - 02 - Dedication.mp3
+Source Code - 03 - Epigraph.mp3
+Source Code - 04 - Prologue.mp3
+Source Code - 05 - Chapter One - Trey.mp3
+Source Code - 06 - Chapter Two - View Ridge.mp3
+Source Code - 07 - Chapter Three - Rational.mp3
+Source Code - 08 - Chapter Four - Lucky Kid.mp3
+Source Code - 09 - Chapter Five - Lakeside.mp3
+Source Code - 10 - Chapter Six - Free Time.mp3
+Source Code - 11 - Chapter Seven - Just Kids.mp3
+Source Code - 12 - Chapter Eight - The Real World.mp3
+Source Code - 13 - Chapter Nine - One Act and Five Nines.mp3
+Source Code - 14 - Chapter Ten - Precocious.mp3
+Source Code - 15 - Chapter Eleven - Wild Card.mp3
+Source Code - 16 - Chapter Twelve - Be So Correct.mp3
+Source Code - 17 - Chapter Thirteen - Micro-Soft.mp3
+Source Code - 18 - Chapter Fourteen - Source Code.mp3
+Source Code - 19 - Epilogue.mp3
+Source Code - 20 - End Credits.mp3
+
+/data/data/com.termux/files/home/storage/shared/Download/Billboard Hot 100 Singles Chart (22.11.2025) Mp3 (320kbps) [Hunter]:
+001. Taylor Swift - The Fate of Ophelia.mp3
+002. HUNTRX, EJAE, Audrey Nuna, REI AMI & KPop Demon Hunters Cast - Golden.mp3
+003. Alex Warren - Ordinary.mp3
+004. Olivia Dean - Man I Need.mp3
+005. Taylor Swift - Opalite.mp3
+006. Justin Bieber - DAISIES.mp3
+007. Leon Thomas - MUTT.mp3
+008. Kehlani - Folded.mp3
+009. Morgan Wallen - I Got Better.mp3
+010. sombr - back to friends.mp3
+011. Mariah Carey - All I Want for Christmas Is You.mp3
+012. Cody Johnson - Travelin' Soldier.mp3
+013. Wham! - Last Christmas.mp3
+014. Morgan Wallen - What I Want.mp3
+015. Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee  - Soda Pop.mp3
+016. Chris Brown - It Depends (feat. Bryson Tiller).mp3
+017. Taylor Swift - Elizabeth Taylor.mp3
+018. Sabrina Carpenter - Tears.mp3
+019. Brenda Lee - Rockin' Around The Christmas Tree.mp3
+020. Bobby Helms - Jingle Bell Rock.mp3
+021. Ella Langley - Choosin' Texas.mp3
+022. Ravyn Lenae - Love Me Not.mp3
+023. Sabrina Carpenter - Manchild.mp3
+024. Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee - Your Idol.mp3
+025. Tate McRae - TIT FOR TAT.mp3
+026. Taylor Swift - Wi$h Li$t.mp3
+027. HUNTR_X, EJAE, Audrey Nuna & REI AMI - How It’s Done.mp3
+028. Taylor Swift - Father Figure.mp3
+029. Olivia Dean - So Easy (To Fall In Love).mp3
+030. Ariana Grande - Santa Tell Me.mp3
+031. KATSEYE - Gabriela.mp3
+032. HUNTRX, EJAE, Audrey Nuna, REI AMI & KPop Demon Hunters Cast - What It Sounds Like.mp3
+033. Taylor Swift - The Life of a Showgirl.mp3
+034. Riley Green - Don't Mind If I Do (feat. Ella Langley).mp3
+035. Russell Dickerson - Happen To Me (feat. Jonas Brothers).mp3
+036. Disco Lines & Tinashe - No Broke Boys.mp3
+037. Megan Moroney - 6 Months Later.mp3
+038. Tame Impala - Dracula.mp3
+039. Lainey Wilson - Somewhere Over Laredo.mp3
+040. Gunna - wgft (feat. Burna Boy).mp3
+041. Kelly Clarkson - Underneath the Tree.mp3
+042. Taylor Swift - Ruin The Friendship.mp3
+043. HUNTR_X, EJAE, Audrey Nuna & REI AMI - Takedown.mp3
+044. Rumi, JINU, EJAE & Andrew Choi - Free.mp3
+045. Mariah the Scientist & Kali Uchis - Is It a Crime.mp3
+046. BigXthaPlug - Hell At Night (feat. Ella Langley).mp3
+047. Andy Williams - It's the Most Wonderful Time of the Year.mp3
+048. Michael Bublé - It's Beginning to Look a Lot like Christmas.mp3
+049. Justin Bieber - YUKON.mp3
+050. Nat King Cole - The Christmas Song (Merry Christmas To You) (Remastered 1999).mp3
+051. YoungBoy Never Broke Again - Shot Callin.mp3
+052. Chase Matthew - Darlin'.mp3
+053. Hudson Westbrook - House Again.mp3
+054. Myles Smith - Nice To Meet You.mp3
+055. Morgan Wallen - 20 Cigarettes.mp3
+056. Doja Cat - Jealous Type.mp3
+057. Taylor Swift - Eldest Daughter.mp3
+058. Raye - WHERE IS MY HUSBAND!.mp3
+059. Luke Combs - Back in the Saddle.mp3
+060. Taylor Swift - Wood.mp3
+061. Taylor Swift - Actually Romantic.mp3
+062. Max McNown - Better Me For You (Brown Eyes).mp3
+063. Kehlani - Out The Window.mp3
+064. Taylor Swift - CANCELLED!.mp3
+065. Gavin Adcock - Last One To Know.mp3
+066. sombr - 12 to 12.mp3
+067. Cardi B - Safe (feat. Kehlani).mp3
+068. Cody Johnson - The Fall.mp3
+069. Tyler, The Creator - Sugar On My Tongue.mp3
+070. G Herbo - Went Legit.mp3
+071. Taylor Swift - Honey.mp3
+072. Olivia Dean - A Couple Minutes.mp3
+073. Metro Boomin, Quavo, Breskii, YKNIECE & DJ SPINZ - Take Me Thru Dere.mp3
+074. Sabrina Carpenter - When Did You Get Hot_.mp3
+075. Lady Gaga - The Dead Dance.mp3
+076. Coldplay - Sparks.mp3
+077. Ed Sheeran - Camera.mp3
+078. Parker McCollum - What Kinda Man.mp3
+079. Joji - Past Won't Leave My Bed.mp3
+080. Jason Aldean - How Far Does A Goodbye Go.mp3
+081. Luke Combs - Days Like These.mp3
+082. ROSALÍA - La Perla.mp3
+083. Jelly Roll - Heart of Stone.mp3
+084. Shaboozey & Jelly Roll - Amen.mp3
+085. YoungBoy Never Broke Again & Mellow Rackz - What You Is.mp3
+086. The Marías - Sienna.mp3
+087. TWICE - Strategy.mp3
+088. Cardi B - ErrTime.mp3
+089. Megan Moroney - Beautiful Things.mp3
+090. Hardy - Favorite Country Song.mp3
+091. Olivia Dean - Nice To Each Other.mp3
+092. TWICE - TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG).mp3
+093. emmanuellcortess_ - Amor.mp3
+094. Radiohead - Let Down.mp3
+095. Tucker Wetmore - 3,2,1.mp3
+096. Yeat - COMË N GO.mp3
+097. Joji - PIXELATED KISSES.mp3
+098. Sabrina Carpenter - Nobody’s Son.mp3
+099. Morgan Wallen - I Ain't Comin' Back (feat. Post Malone).mp3
+100. Loe Shimmy & Don Toliver - 3am.mp3
+
+/data/data/com.termux/files/home/storage/shared/Download/Calisthenics Playbook for Muscle-ups:
+Calisthenics Playbook for Muscle-ups.pdf
+Get More......txt
+
+/data/data/com.termux/files/home/storage/shared/Download/Canva:
+Untitled design_20251220_200027_0000.pdf
+Untitled design_20251220_200859_0000.pdf
+Untitled design_20260105_150615_0000.pdf
+
+/data/data/com.termux/files/home/storage/shared/Download/CapCut v12.9.0:
+Apk
+Downloaded from HaxNode.net.txt
+HaxNode.Net.url
+Read Me.txt
+
+/data/data/com.termux/files/home/storage/shared/Download/CapCut v12.9.0/Apk:
+CapCut v12.9.0.apk
+
+/data/data/com.termux/files/home/storage/shared/Download/Creative Methods in Teaching and Learning - Fostering Teacher-Student Success:
+Creative Methods in Teaching and Learning - Fostering Teacher-Student Success.pdf
+Get More......txt
+
+/data/data/com.termux/files/home/storage/shared/Download/Crosbie L. Microsoft Copilot Studio Step by Step. Customizing Copilot...2026:
+Crosbie L. Microsoft Copilot Studio Step by Step. Customizing Copilot...2026.pdf
+Gomathi S. GitHub Copilot Step by Step. Navigating AI-driven software...2026.pdf
+Matfess J. Microsoft Copilot Studio Quick Start 2025.pdf
+
+/data/data/com.termux/files/home/storage/shared/Download/Ditch Your Sh't - Decluttering Your Mindset to Declutter Your Home by Kate Evans:
+Ditch Your Sh't - Decluttering Your Mindset to Declutter Your Home by Kate Evans.epub
+Get More......txt
+
+/data/data/com.termux/files/home/storage/shared/Download/Encyclopedia of Rare Drug Plants - Exploring The World Of Uncommon Medicines by Craig Cowden:
+Encyclopedia of Rare Drug Plants - Exploring The World Of Uncommon Medicines by Craig Cowden.pdf
+Get More......txt
+
+/data/data/com.termux/files/home/storage/shared/Download/Eric Clapton - Journeyman Deluxe Edition (2025) Mp3 (320kbps) [Hunter]:
+01. Pretending.mp3
+02. Anything for Your Love.mp3
+03. Bad Love.mp3
+04. Running on Faith.mp3
+05. Hard Times.mp3
+06. Hound Dog.mp3
+07. No Alibis.mp3
+08. Run So Far.mp3
+09. Old Love.mp3
+10. Breaking Point.mp3
+11. Lead Me On.mp3
+12. Before You Accuse Me.mp3
+13. Higher Power (Bonus Track).mp3
+14. Border Song (Bonus Track).mp3
+15. Forever (Bonus Track).mp3
+16. That Kind of Woman (Bonus Track).mp3
+
+/data/data/com.termux/files/home/storage/shared/Download/Ghosh A. Modern Power System 2025:
+Ghosh A. Modern Power System 2025.pdf
+
+/data/data/com.termux/files/home/storage/shared/Download/How to Work with Complicated People - Strategies for Effective Collaboration with (Nearly) Anyone:
+Get More......txt
+How to Work with Complicated People - Strategies for Effective Collaboration with (Nearly) Anyone.epub
+
+/data/data/com.termux/files/home/storage/shared/Download/James Clear - Atomic Habits:
+Atomic Habits.m4b
+
+/data/data/com.termux/files/home/storage/shared/Download/Lock Picking for Beginners - A Complete Step-by-Step Visual Guide on How to Pick Locks with Simple Tools:
+Get Latest Books & Magazines.html
+Get More Books & Magazines.....txt
+Lock Picking for Beginners - A Complete Step-by-Step Visual Guide on How to Pick Locks with Simple Tools.pdf
+
+/data/data/com.termux/files/home/storage/shared/Download/Microsoft Copilot v30.0.431106001 build 431106001 Premium Mod Apk {CracksHash}:
+Download Latest Cracks and Apps.url
+Downloaded from CracksHash.com.txt
+Instructions!.txt
+Microsoft Copilot v30.0.431106001 build 431106001 Premium Mod Apk {CracksHash}.apk
+
+/data/data/com.termux/files/home/storage/shared/Download/Neil Young - Rust Never Sleeps & Live Rust [320-Bubanee]:
+Info & Other Bubanee...nfo
+Neil Young & Crazy Horse - Live Rust
+Neil Young & Crazy Horse - Rust Never Sleeps
+Playlist 320 (Full).m3u
+
+/data/data/com.termux/files/home/storage/shared/Download/Neil Young - Rust Never Sleeps & Live Rust [320-Bubanee]/Neil Young & Crazy Horse - Live Rust:
+01 - Sugar Mountain - Neil Young & Crazy Horse.mp3
+02 - I Am A Child - Neil Young & Crazy Horse.mp3
+03 - Comes A Time - Neil Young & Crazy Horse.mp3
+04 - After The Gold Rush - Neil Young & Crazy Horse.mp3
+05 - My My, Hey Hey (Out Of The Blue) - Neil Young & Crazy Horse.mp3
+06 - When You Dance I Can Really Love - Neil Young & Crazy Horse.mp3
+07 - The Loner - Neil Young & Crazy Horse.mp3
+08 - The Needle And The Damage Done - Neil Young & Crazy Horse.mp3
+09 - Lotta Love - Neil Young & Crazy Horse.mp3
+10 - Sedan Delivery - Neil Young & Crazy Horse.mp3
+11 - Powderfinger - Neil Young & Crazy Horse.mp3
+12 - Cortez The Killer - Neil Young & Crazy Horse.mp3
+13 - Cinammon Girl - Neil Young & Crazy Horse.mp3
+14 - Like A Hurricane - Neil Young & Crazy Horse.mp3
+15 - Hey Hey, My My (Into The Black) - Neil Young & Crazy Horse.mp3
+16 - Tonight's The Night - Neil Young & Crazy Horse.mp3
+Playlist 320.m3u
+folder.jpg
+
+/data/data/com.termux/files/home/storage/shared/Download/Neil Young - Rust Never Sleeps & Live Rust [320-Bubanee]/Neil Young & Crazy Horse - Rust Never Sleeps:
+01 - My My, Hey Hey (Out Of The Blue) - Neil Young & Crazy Horse.mp3
+02 - Thrasher - Neil Young & Crazy Horse.mp3
+03 - Ride My Llama - Neil Young & Crazy Horse.mp3
+04 - Pocahontas - Neil Young & Crazy Horse.mp3
+05 - Sail Away - Neil Young & Crazy Horse.mp3
+06 - Powderfinger - Neil Young & Crazy Horse.mp3
+07 - Welfare Mothers - Neil Young & Crazy Horse.mp3
+08 - Sedan Delivery - Neil Young & Crazy Horse.mp3
+09 - Hey Hey, My My (Into The Black) - Neil Young & Crazy Horse.mp3
+Playlist 320.m3u
+folder.jpg
+
+/data/data/com.termux/files/home/storage/shared/Download/Pirate:
+CapCut v12.9.0
+
+/data/data/com.termux/files/home/storage/shared/Download/Pirate/CapCut v12.9.0:
+Apk
+
+/data/data/com.termux/files/home/storage/shared/Download/Pirate/CapCut v12.9.0/Apk:
+CapCut v12.9.0
+CapCut v12.9.0.apk
+
+/data/data/com.termux/files/home/storage/shared/Download/Pirate/CapCut v12.9.0/Apk/CapCut v12.9.0:
+Apk
+
+/data/data/com.termux/files/home/storage/shared/Download/Pirate/CapCut v12.9.0/Apk/CapCut v12.9.0/Apk:
+CapCut v12.9.0.apk
+
+/data/data/com.termux/files/home/storage/shared/Download/Princing for profit - how to develop a powerful pricing strategy for your business:
+Get More......txt
+Princing for profit - how to develop a powerful pricing strategy for your business.epub
+
+/data/data/com.termux/files/home/storage/shared/Download/Quick Share:
+20260113_200824.jpg
+20260113_203110.jpg
+20260113_203520.jpg
+20260113_203625.jpg
+20260113_203657.jpg
+20260113_203824.jpg
+20260113_203947.jpg
+20260113_204019.jpg
+20260113_204049.jpg
+20260113_204138.jpg
+20260113_204226.jpg
+20260113_204316.jpg
+20260113_204409.jpg
+20260113_204515.jpg
+20260113_204733.jpg
+20260113_205745.jpg
+20260113_205752.jpg
+20260113_205800.jpg
+20260113_205931.jpg
+20260113_211814.jpg
+20260113_211823.jpg
+20260113_211859.jpg
+20260113_212253.jpg
+20260113_212331.jpg
+20260113_212353.jpg
+20260113_212424.jpg
+20260113_212740.jpg
+20260113_212757.jpg
+20260113_212809.jpg
+20260113_212835.jpg
+20260113_212854.jpg
+20260113_212910.jpg
+20260113_212944.jpg
+20260113_212959.jpg
+20260113_213012.jpg
+20260113_213028.jpg
+20260113_213046.jpg
+20260113_213115.jpg
+20260113_213139.jpg
+20260113_213523.jpg
+20260113_213550.jpg
+20260113_213556.jpg
+20260113_213637.jpg
+20260113_213715.jpg
+20260113_214003.jpg
+20260113_214015.jpg
+20260113_214402.jpg
+20260113_214405.jpg
+20260113_214528.jpg
+20260113_214700.jpg
+20260113_214714.jpg
+20260113_214836.jpg
+20260113_215024.jpg
+20260113_215149.jpg
+20260113_215254.jpg
+20260113_220153.jpg
+20260113_220309.jpg
+20260113_220353.jpg
+20260113_220545.jpg
+20260113_220557.jpg
+20260113_220643.jpg
+20260113_220655.jpg
+
+/data/data/com.termux/files/home/storage/shared/Download/SAM_PUBLIC_MONTHLY_2025_NOV_MODIFIED:
+SAM_PUBLIC_MONTHLY_V2_20251102.dat
+
+/data/data/com.termux/files/home/storage/shared/Download/Shen J. High-Speed Photography in Fluid Mechanics 2025:
+Shen J. High-Speed Photography in Fluid Mechanics 2025.pdf
+
+/data/data/com.termux/files/home/storage/shared/Download/Siete7x - Misunderstood  Rap  West Coast Hip-Hop (2025) 320_kbps Beats⭐:
+Siete7x - Misunderstood  Rap  West Coast Hip-Hop (2025) 320_kbps Beats⭐
+
+/data/data/com.termux/files/home/storage/shared/Download/Siete7x - Misunderstood  Rap  West Coast Hip-Hop (2025) 320_kbps Beats⭐/Siete7x - Misunderstood  Rap  West Coast Hip-Hop (2025) 320_kbps Beats⭐:
+01. Misunderstood.mp3
+02. Wasn't There.mp3
+03. Rose feat. BlueBucksClan.mp3
+04. Pop Yo Shit feat. 310babii.mp3
+05. Important.mp3
+06. Spike Lee feat. BMG Dmack.mp3
+07. Dance for Me feat. Reech.FrFr.mp3
+08. Don't Give Up on Me.mp3
+09. Ain't Me.mp3
+10. Gangtalk feat. Big Sad 1900.mp3
+11. Find Redemption feat. RJmrLA.mp3
+12. Go Head Baby.mp3
+13. Trippin feat. Lil Bean.mp3
+14. Blocc Boyz.mp3
+
+/data/data/com.termux/files/home/storage/shared/Download/Smart AudioBook Player v11.6.3 Premium Mod Apk {CracksHash}:
+Download Latest Cracks and Apps.url
+Downloaded from CracksHash.com.txt
+Instructions!.txt
+Smart AudioBook Player v11.6.3 Premium Mod Apk {CracksHash}.apk
+
+/data/data/com.termux/files/home/storage/shared/Download/Talking to Strangers What We Should Know About the People We Don’t Know Malcom Gladwell:
+001 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+002 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+003 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+004 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+005 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+006 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+007 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+008 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+009 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+010 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+011 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+012 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+013 - Talking to Strangers What We Should Know About the People We Don’t Know.mp3
+
+/data/data/com.termux/files/home/storage/shared/Download/VideoGPT - AI Video Generator v2.1.5 [AppDoze]:
+APK
+AppDoze.com.txt
+How to Install.txt
+Join our discord for more content.txt
+[1337x] Torrent downloaded from 1337x.to.txt
+[TGx]Downloaded from torrentgalaxy.to .txt
+[TPB] Torrent downloaded from thepiratebay.txt
+
+/data/data/com.termux/files/home/storage/shared/Download/VideoGPT - AI Video Generator v2.1.5 [AppDoze]/APK:
+VideoGPT - AI Video Generator v2.1.5 [AppDoze].apk
+
+/data/data/com.termux/files/home/storage/shared/Download/Walter Isaacson - 2023 - Elon Musk (Biography):
+Downloaded From 1337X.txt
+Downloaded From AngieTorrents.txt
+Downloaded From Demonoid.txt
+Downloaded From Glodls.txt
+Downloaded From TorrentGalaxy.txt
+Elon Musk - Walter Isaacson - 2023.txt
+Elon Musk.mp3
+
+/data/data/com.termux/files/home/storage/shared/Download/cancan-dataset-2025-12-31:
+data
+metadata
+
+/data/data/com.termux/files/home/storage/shared/Download/cancan-dataset-2025-12-31/data:
+example.txt
+
+/data/data/com.termux/files/home/storage/shared/Download/cancan-dataset-2025-12-31/metadata:
+metadata.json
+zenodo.json
+
+/data/data/com.termux/files/home/storage/shared/Download/sapiens:
+001 Sapiens A Brief History of Humankind.mp3
+002 The Tree of Knowledge.mp3
+003 A Day in the Life of Adam and Eve.mp3
+004 The Flood.mp3
+005 The Agricultural Revolution.mp3
+006 Building Pyramids.mp3
+007 Memory Overload.mp3
+008 There is No Justice in History.mp3
+009 The Unification of Humankind.mp3
+010 The Scent of Money.mp3
+011 Imperial Visions.mp3
+012 The Law of Religion.mp3
+013 Dualistic religions.mp3
+014 The Secret of Success.mp3
+015 The Scientific Revolution.mp3
+016 While the Germans.mp3
+017 The Marriage of Science and Empire.mp3
+018 Many scholars argue.mp3
+019 The Capitalist Creed.mp3
+020 Both loans are to be.mp3
+021 The Wheels of Industry.mp3
+022 A Permanent Revolution.mp3
+023 All this changed dramatically over the last two.mp3
+024 And They Lived Happily Ever After.mp3
+025 The End of Homo Sapiens.mp3
+026 Afterword The Animal that Became a God.mp3
+
+/data/data/com.termux/files/home/storage/shared/Movies:
+Vimages
+
+/data/data/com.termux/files/home/storage/shared/Movies/Vimages:
+
+/data/data/com.termux/files/home/storage/shared/Music:
+Samsung
+
+/data/data/com.termux/files/home/storage/shared/Music/Samsung:
+Over_the_Horizon.m4a
+
+/data/data/com.termux/files/home/storage/shared/Notifications:
+
+/data/data/com.termux/files/home/storage/shared/Pictures:
+1768103969986.jpg
+Bakersfield_Matrix_Sector275
+Canva
+Facebook
+Messages
+Messenger
+OfficeMobile
+
+/data/data/com.termux/files/home/storage/shared/Pictures/Bakersfield_Matrix_Sector275:
+20251226_080632.jpg
+20251226_082246.jpg
+20251227_204712.jpg
+20251227_204751.jpg
+20251227_204826.jpg
+20251227_204857.jpg
+20251227_204932.jpg
+20251227_205010.jpg
+20251227_205057.jpg
+20251227_205102.jpg
+20251227_205245.jpg
+20251229_074350.jpg
+20251229_223122.jpg
+20251229_223129.jpg
+20251229_223143.jpg
+20251229_223232.jpg
+20251229_225335.jpg
+20260105_123542.jpg
+20260108_074025.jpg
+20260108_074051.jpg
+20260108_075046.jpg
+20260108_075053_001.jpg
+20260108_075058.jpg
+20260108_075608.jpg
+20260108_082245.jpg
+20260108_084446.jpg
+20260108_085326.jpg
+20260108_085334.jpg
+20260108_094206.jpg
+20260108_101920.jpg
+20260108_121134.jpg
+20260109_185855.jpg
+20260109_185945.jpg
+20260109_190002.jpg
+20260109_190104.jpg
+20260109_190255.jpg
+20260109_190406.jpg
+20260109_190458.jpg
+20260109_190608.jpg
+20260109_190810.jpg
+20260109_190946.jpg
+20260109_191030.jpg
+20260109_191219.jpg
+20260109_191418.jpg
+20260109_191429.jpg
+20260109_191707.jpg
+20260109_192412.jpg
+20260109_192445.jpg
+20260109_194330.jpg
+GODMODE_1767847181.jpg
+
+/data/data/com.termux/files/home/storage/shared/Pictures/Canva:
+
+/data/data/com.termux/files/home/storage/shared/Pictures/Facebook:
+
+/data/data/com.termux/files/home/storage/shared/Pictures/Messages:
+
+/data/data/com.termux/files/home/storage/shared/Pictures/Messenger:
+
+/data/data/com.termux/files/home/storage/shared/Pictures/OfficeMobile:
+
+/data/data/com.termux/files/home/storage/shared/Podcasts:
+
+/data/data/com.termux/files/home/storage/shared/Recordings:
+Call
+
+/data/data/com.termux/files/home/storage/shared/Recordings/Call:
+Call recording 8556965005_251210_205604.m4a
+
+/data/data/com.termux/files/home/storage/shared/Ringtones:
+
+/data/data/com.termux/files/home/storage/shared/cancan-website:
+Index.html
+cleanup-intakejson.docx
+
+/data/data/com.termux/files/home/storage/shared/cancan-website/Index.html:

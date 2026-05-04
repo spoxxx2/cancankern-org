@@ -1,0 +1,22 @@
+[CANCAN NODE - ASSET ACQUISITION LIST]
+REF: BMC § 8.32.190 | PROJECT: PANAMA LANE PILOT
+
+1. GLASSWARE (BOROSILICATE / "BORO")
+   - 2x 500mL Erlenmeyer Flasks (Narrow neck)
+   - 2x Glass Gravity Funnels (Wide stem)
+   - 1x Büchner Funnel (Porcelain or Glass, 90mm+)
+   - 1x Glass Powder Funnel (Short/Wide stem for vial transfer)
+
+2. CONTAINMENT (FINAL PRODUCT)
+   - 10x 10mL or 20mL Borosilicate Vials (Amber preferred)
+   - PTFE-lined screw caps (to prevent solvent reaction)
+
+3. FILTRATION & SEPARATION
+   - Stainless Steel Mesh Screen (Fine micron)
+   - 0.22-micron Luer-lock Syringe Filters
+
+4. SOLVENTS & INSTRUMENTATION
+   - 99% Isopropanol (IPA) - Reagent/ACS Grade (Expired OK)
+   - Infrared (IR) Thermometer (for Thermal Delta monitoring)
+
+OBJECTIVE: 100% Polymer-Free path to eliminate Phthalate leaching.

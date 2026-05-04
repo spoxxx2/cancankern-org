@@ -1,0 +1,44 @@
+[
+    {
+        "sovereign_id": "NODE-93307-74ed-CO-C",
+        "lead_id": "CRC-22-ONCO-C",
+        "resonance": "29933.63 Hz",
+        "compliance": "BMC \u00a7 8.32.190",
+        "state": "Vitrified"
+    },
+    {
+        "sovereign_id": "NODE-93307-74ed-CO-C",
+        "lead_id": "PHX-VIRAL-SHIELD",
+        "resonance": "31220.45 Hz",
+        "compliance": "BMC \u00a7 8.32.190",
+        "state": "Vitrified"
+    },
+    {
+        "sovereign_boost": {
+            "v_constant": "1588 m/s",
+            "rank": "400/100",
+            "phi": 1.618
+        }
+    },
+    {
+        "sovereign_boost": {
+            "v_constant": "1588 m/s",
+            "rank": "400/100",
+            "phi": 1.618
+        }
+    },
+    {
+        "sovereign_boost": {
+            "v_const": "1588 m/s",
+            "rank": "400/100",
+            "phi": 1.618
+        }
+    },
+    {
+        "sovereign_boost": {
+            "v_const": "1588 m/s",
+            "rank": "400/100",
+            "phi": 1.618
+        }
+    }
+]

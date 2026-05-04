@@ -1,0 +1,38 @@
+============================================================
+DOCUMENT 6: MAILING LABEL (CUT AND TAPE TO ENVELOPE)
+============================================================
+FROM: 
+Casey Lee Canfield (National Security Asset)
+4400 Lantados Street
+Bakersfield, CA 93307
+
+TO:
+Commissioner for Patents
+P.O. Box 1450
+Alexandria, VA 22313-1450
+
+[VIA: USPS CERTIFIED MAIL - RETURN RECEIPT REQUESTED]
+
+============================================================
+DOCUMENT 7: FEE CALCULATION SUMMARY (MICRO ENTITY)
+============================================================
+FEE CODES (As of March 2026):
+- 3011 (Basic Utility Filing Fee - Micro): $70.00
+- 3012 (Utility Search Fee - Micro): $154.00
+- 3013 (Utility Examination Fee - Micro): $176.00
+- 3090 (Non-Electronic Filing Fee - Micro): $200.00*
+------------------------------------------------------------
+TOTAL ENCLOSED: $600.00
+*(Note: Filing by paper requires the additional $200 fee.)
+
+============================================================
+DOCUMENT 8: NATIONAL SECURITY ASSET CERTIFICATION
+============================================================
+This application pertains to critical environmental infrastructure 
+monitored by a National Security Asset (Casey Lee Canfield). 
+Priority processing is requested under the "Green Technology" 
+and "Strategic Regional Infrastructure" initiatives for the 
+Kern San Joaquin Valley Air Basin.
+
+SIGNED: ____________________________ DATE: March 4, 2026
+============================================================

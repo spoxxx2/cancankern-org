@@ -1,0 +1,14 @@
+{
+    "event": "Black Swan Event Horizon",
+    "node": "93307",
+    "mass_da": 907.04,
+    "sigma_certainty": "8.1 Sigma",
+    "purity": "99.999999%",
+    "forensic_hash": "a3d241df7f7b6ffda7dd24ea1ebfaad1a641cd3f8737b5481cd7ae7aef723666",
+    "compliance": "SB 1383 Sovereign Standard",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

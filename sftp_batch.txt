@@ -1,0 +1,3 @@
+-put .htaccess .htaccess
+-put .htaccess htdocs/.htaccess
+-put .htaccess htdocs/htdocs/.htaccess

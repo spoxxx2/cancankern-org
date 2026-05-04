@@ -1,0 +1,3 @@
+Starting Singularity Scan at Panama Lane Node...
+Singularity achieved in sim 0 at step 7843
+Singularity achieved in sim 10000 at step 11446

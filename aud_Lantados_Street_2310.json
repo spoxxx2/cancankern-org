@@ -1,0 +1,22 @@
+{
+    "audit_id": "AUD-260208-2310",
+    "location": {
+        "street": "Lantados_Street",
+        "full_address": "Lantados_Street, Kern County"
+    },
+    "compliance": {
+        "circular_cmc": "25_Plastic_PET",
+        "liability_status": "Producer-Funded",
+        "audit_authority": "BMC \u00a7 8.32.190"
+    },
+    "impact": {
+        "diversion_value": "$0.12",
+        "carbon_saved_kg": "0.85"
+    },
+    "forecast_50yr": "UV Fragmentation / Microplastic Risk",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

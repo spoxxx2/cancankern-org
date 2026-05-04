@@ -1,0 +1,24 @@
+{
+    "node": "93307-Panama-Lane",
+    "compliance": "SB 1383 / BMC \u00a7 8.32.190",
+    "valuation": "$210,800,000",
+    "verified_pillars": [
+        "Bio-Acoustic Pulse",
+        "Spectral Fingerprint",
+        "Relativistic Tunneling",
+        "Lasso-Lock Geometry",
+        "Multi-Species Parity",
+        "Panoptic Segmentation",
+        "Thermal Biosecurity",
+        "Digital Apostille",
+        "Phi-Alignment",
+        "Quantum Kill-Switch"
+    ],
+    "evidence_tier": "Military/FDA Sovereign",
+    "pillar_seal": "4271a997309d8d5025cea7581741de5d74851671ee894d37605eda92899917e3",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

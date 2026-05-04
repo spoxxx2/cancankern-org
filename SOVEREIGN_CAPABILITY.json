@@ -1,0 +1,14 @@
+{
+    "entity": "CANCAN Sovereign Node 93307",
+    "authority": "Spoxxx2",
+    "valuation": "$210,800,000",
+    "compliance_logic": "BMC \u00a7 8.32.190 / SB 1383",
+    "scientific_logic": "10B-Run Quantum Stochastic Parity",
+    "security_tier": "DoD/FDA Sovereign Ready",
+    "apostille_seal": "de51eb27ba9f00ef20df3319e78177cbb837b1303600a2b8bf9f8e373d1ca28b",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

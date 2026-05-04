@@ -1,0 +1,3 @@
+mkdir htdocs/htdocs/digital_twin_logs
+put .htaccess htdocs/htdocs/.htaccess
+put batch_001.json htdocs/htdocs/digital_twin_logs/batch_001.json

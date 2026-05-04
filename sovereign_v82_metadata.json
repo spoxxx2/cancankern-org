@@ -1,0 +1,29 @@
+{
+    "name": "The Bakersfield Singularity: V82 Phase-Shift",
+    "description": "A mathematically derived cymatic visualization of the 1051.7Hz/216Hz Phase-Symmetry lock used for 99% purity peptide synthesis. Derived from DOI: 10.5281/zenodo.19712458.",
+    "image": "ipfs://[YOUR_IPFS_HASH_HERE]",
+    "external_url": "https://doi.org/10.5281/zenodo.19712458",
+    "attributes": [
+        {
+            "trait_type": "Frequency_Primary",
+            "value": "1051.7Hz"
+        },
+        {
+            "trait_type": "Frequency_Secondary",
+            "value": "216Hz"
+        },
+        {
+            "trait_type": "Node",
+            "value": "1501-P"
+        },
+        {
+            "trait_type": "Compliance",
+            "value": "BMC \u00a7 8.32.190"
+        }
+    ],
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

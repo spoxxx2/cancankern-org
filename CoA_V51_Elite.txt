@@ -1,0 +1,4 @@
+CERTIFICATE OF ANALYSIS: BATCH CAN-20260425
+Architect: Casey Lee Canfield | Node 1501-P
+Verified pI: 12.32 | Snap: -3C | Velocity: 1588 m/s
+Status: ELITE / STABILIZED

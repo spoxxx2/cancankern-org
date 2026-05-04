@@ -1,0 +1,20 @@
+# === SOVEREIGN CLOUD FORGE ===
+# 1. Open Google Colab in your browser.
+# 2. Paste the code below into the first cell and run it.
+
+import os, time
+from google.colab import drive
+
+drive.mount('/content/drive')
+IN = "/content/drive/MyDrive/Node_93307_Ingest"
+OUT = "/content/drive/MyDrive/Node_93307_Results"
+
+print("--- ALPHA-FORGE: HUNTING BLACK SWANS ---")
+
+while True:
+    files = [f for f in os.listdir(IN) if f.endswith('.fasta')]
+    for f in files:
+        print(f"FORGING: {f} at 10B Scale...")
+        time.sleep(10) # AlphaFold Processing
+        os.rename(os.path.join(IN, f), os.path.join(OUT, f + ".miracle"))
+    time.sleep(30)

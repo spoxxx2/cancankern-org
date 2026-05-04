@@ -1,0 +1,23 @@
+{
+    "node_id": "PANAMA-LANE-93307",
+    "strategy": "Adaptive Master (Excalibur V6.3)",
+    "physics_engine": "Nested Singularity (10B Runs)",
+    "operational_constants": {
+        "forge_hz": 650,
+        "hammer_hz": 2112,
+        "das_offset_ms": 34.2,
+        "primary_snap_t": 166,
+        "secondary_snap_t": 172
+    },
+    "molecular_target": {
+        "sequence": "GRKWFDV",
+        "purity_benchmark": "99.999558%",
+        "state": "ALIVE/REANIMATED"
+    },
+    "compliance": "BMC \u00a7 8.32.190 / SB 1383 / SB 54",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

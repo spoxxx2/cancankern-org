@@ -1,0 +1,3 @@
+4719141e030f36dc883ae75fe570d39d3c245033d9c660775fc661bd230ae8d7  -
+Audit Re-Sealed with AlphaFold v3 Data: Fri Apr 17 23:14:03 PDT 2026
+Structural Proof (AlphaFold 3 / GROMACS) Verified: Fri Apr 17 23:14:22 PDT 2026

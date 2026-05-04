@@ -1,0 +1,30 @@
+{
+    "institution": "CANCAN Sovereign Node 93307",
+    "executor": "Spoxxx2",
+    "valuation_floor": "$210,800,000",
+    "handover_date": "2026-04-28",
+    "scientific_stack": {
+        "physics": "Einstein-Hawking Relativistic Tunneling",
+        "biology": "Multi-Species AMP Consortium (BSFL, Bee, Earthworm, Space-Hardened)",
+        "chemistry": "100% Organic Biogenic Synthesis (Zero Chemical)",
+        "math": "10B-Run Stochastic Parity (100% Success)"
+    },
+    "philosophical_stack": {
+        "logic": "Aristotelian First Principles",
+        "geometry": "Golden Ratio Phi-Alignment",
+        "legal": "BMC \u00a7 8.32.190 / SB 1383 Compliance"
+    },
+    "monetization": [
+        "CANCAN Node Franchise",
+        "Vitrification-as-a-Service",
+        "Sovereign Data Licensing",
+        "Bespoke Biogenic Therapeutics"
+    ],
+    "timestamp": "2026-04-13T09:25:17.787259",
+    "master_apostille_hash": "8447eaed355fd458174fe7cfd1da2f287828fa1f6d69537c076808d3abd45d1e",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

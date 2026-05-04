@@ -1,0 +1,10 @@
+--- CALRECYCLE QUESTIONS (2026-04-30) ---
+
+Q1 (Procurement):
+For independent FROs utilizing BSFL bioconversion, what is the protocol for assigning diversion tonnage directly to the jurisdiction's procurement targets?
+
+Q2 (Compliance):
+How can we sync our YOLOv12-based Digital Twin logs with CalRecycle’s reporting requirements to satisfy BMC § 8.32.190?
+
+Q3 (Funding):
+Are there specific grant tracks for urban bioconversion nodes that reduce Process Mass Intensity (PMI)?

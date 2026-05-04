@@ -1,0 +1,29 @@
+{
+    "name": "Node 93307: Singularity 545",
+    "symbol": "CANCAN",
+    "description": "Forensic proof of crystalline transition at 1588 m/s. Node 93307 (Bakersfield).",
+    "image": "https://zenodo.org/badge/DOI/10.5281/zenodo.19590407.svg",
+    "attributes": [
+        {
+            "trait_type": "Kinetic Constant",
+            "value": "1588 m/s"
+        },
+        {
+            "trait_type": "pI Lock",
+            "value": "12.32"
+        },
+        {
+            "trait_type": "Singularity ID",
+            "value": "545"
+        },
+        {
+            "trait_type": "Compliance",
+            "value": "BMC \u00a7 8.32.190"
+        }
+    ],
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

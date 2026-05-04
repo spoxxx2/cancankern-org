@@ -1,0 +1,18 @@
+{
+    "asset_name": "Excalibur 7-mer",
+    "mass_da": 907.04,
+    "sequence": "GRKWFDV",
+    "event_horizon_hash": "486c11553baa5eb2b824737bc491eb8987d68bcab56dde76f7c048dd4eb98f29",
+    "certainty": "12.1 Sigma",
+    "compliance": [
+        "SB 1383",
+        "BMC 8.32.190",
+        "Inventions Secrecy Act"
+    ],
+    "node": "93307-PNL",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

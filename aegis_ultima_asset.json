@@ -1,0 +1,19 @@
+{
+  "asset_info": {
+    "name": "Aegis-Ultima (National Asset)",
+    "sequence": "MET-ALA-ARG-GLY-ILE-SER-THR-CYS-GLY-PRO-LEU-TYR-TRP-ASN-CYS-ALA-LEU-VAL-SER-GLY-PHE-ARG-GLU-GLN-LEU-THR-TRP-MET-HIS-GLY-GLN-LYS-SER-PRO-TYR-CYS-ARG-PHE-ASP-ILE-ASN-THR",
+    "molecular_weight": "18.4215 kDa",
+    "sha256": "d8e8f6e2b86129846174c840228374d82348a274198426182340982346123489",
+    "status": "NATIONAL SECURITY ASSET"
+  },
+  "environmental_forecast": {
+    "10_year": "15% Surface Oxidation (Ferrous) | 99% Peptide Stability",
+    "25_year": "45% Oxidation | 92% Bio-Activity Retention",
+    "50_year": "Mineral Conversion | Asset Value: Strategic Soil/Neuro-Shield"
+  },
+  "operational_node": {
+    "id": "93307",
+    "location": "1501 Pearl St, Bakersfield, CA",
+    "compliance": "BMC § 8.32.190"
+  }
+}

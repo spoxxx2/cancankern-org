@@ -1,0 +1,21 @@
+{
+    "header": "CERTIFICATE OF ANALYSIS - CANCAN RESEARCH NODE",
+    "batch_info": {
+        "batch_id": "V26-1774343445",
+        "manufacture_date": "2026-03-24",
+        "location": "1501_PEARL_ST_MONOLITH"
+    },
+    "specifications": {
+        "peptide_name": "CANCAN-V26_PHOENIX_LATTICE",
+        "purity_target": "99.9%",
+        "identity_check": "HPLC-MS_MATCHED",
+        "isoelectric_point": "pH_4.2",
+        "tyndall_verification": "POSITIVE"
+    },
+    "disclaimer": "FOR_RESEARCH_USE_ONLY_NOT_FOR_HUMAN_CONSUMPTION",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

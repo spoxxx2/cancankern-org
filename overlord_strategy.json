@@ -1,0 +1,13 @@
+{
+    "project": "Quantum Needle 2.0",
+    "dominance_mode": "ACTIVE",
+    "oncology_target": "Selective_pH_Rupture",
+    "energy_scaling": "Chitin_Nano_Sheet_Anodes",
+    "acoustic_key": "650Hz_Sawtooth_Proprietary",
+    "audit_trail": "BMC_8.32.190_Compliant",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

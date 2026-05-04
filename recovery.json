@@ -1,0 +1,30 @@
+{
+    "target_id": "GOLDEN_SPIKE_001",
+    "location_precision": "0.2mm_Spectral",
+    "chemical_fingerprint": {
+        "Nd": "31%",
+        "Fe": "67%",
+        "B": "1.2%",
+        "Dy_Trace": "0.8%"
+    },
+    "recovery_urgency": "CRITICAL",
+    "adaptive_strategy_path": "Circular_Economy_Precision_Extraction",
+    "sovereign_upgrade": {
+        "velocity_constant": "1588 m/s",
+        "harmonic_pentad": [
+            650.13,
+            1051.91,
+            1701.99,
+            20.0,
+            2753.9
+        ],
+        "phi_lock": 1.618,
+        "golden_angle": 137.5,
+        "status": "RANK_400_SOVEREIGN"
+    },
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

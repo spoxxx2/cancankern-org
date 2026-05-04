@@ -1,0 +1,17 @@
+============================================================
+PROJECT CANCAN: BIO-ACTIVE PEPTIDE ISOLATION (PNL-NODE)
+============================================================
+RESEARCH AREA: Secondary Metabolites from Hermetia illucens
+COMPLIANCE: AB 1201 / BMC § 8.32.190
+TARGET: 99.7% Purity Cold-Solvent Extract
+
+ABSTRACT:
+Isolating low-molecular-weight peptides via Precision Acoustic 
+Induction (650Hz-1200Hz). Initial assays show high 
+cytotoxicity/antimicrobial potential. Current transition 
+required from technical-grade field materials to ACS-compliant 
+borosilicate paths to eliminate phthalate (THAL-ate) 
+interference in GC-MS/FT-IR baselines.
+
+PI: [Your Name] | Location: Panama Lane Node, 93307
+============================================================

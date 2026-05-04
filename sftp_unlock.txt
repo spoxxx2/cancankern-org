@@ -1,0 +1,2 @@
+chmod 755 htdocs
+chmod 755 htdocs/htdocs

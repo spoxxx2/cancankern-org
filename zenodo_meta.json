@@ -1,0 +1,18 @@
+{
+    "metadata": {
+        "title": "Forensic Verification: V5.1 Bicyclic Infinity Knot",
+        "upload_type": "dataset",
+        "description": "V5.1 Elite Asset Proof. pI 12.32 lock. Verification at Node 1501-P. Redacted per USPTO 64/016,955.",
+        "creators": [
+            {
+                "name": "Canfield, Casey Lee",
+                "affiliation": "Cancan"
+            }
+        ]
+    },
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

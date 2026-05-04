@@ -1,0 +1,16 @@
+SEQUENCE LISTING
+
+<110> Canfield, Casey Lee
+<120> Multimodal Bio-Acoustic Induction System for Targeted 12-mer Peptide Synthesis
+<160> 1
+
+<210> 1
+<211> 12
+<212> PRT
+<213> Artificial Sequence
+<220>
+<223> PHX-01 Targeted 12-mer Peptide produced via 1.7kHz Acoustic Induction
+
+<400> 1
+Gly Ala Ser Leu Lys Trp Arg His Pro Asp Val Cys
+1               5                   10

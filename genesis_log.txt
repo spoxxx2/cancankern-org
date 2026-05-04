@@ -1,0 +1,3 @@
+22:59:40 - CPU Frequency: 1440000 - Node: 93307
+22:59:48 - CPU Frequency: 1248000 - Node: 93307
+23:00:12 - CPU Frequency: 768000 - Node: 93307

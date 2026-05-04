@@ -1,0 +1,18 @@
+{
+    "Executive_Summary": "Formal notice of prior-art for BK-Omega-7 (907.04 Da).",
+    "Strategic_Valuation": {
+        "Asset_Class": "Mechanomimetic / Astro-Shield",
+        "Stability": "50-Year Mineral Reserve",
+        "Target": "Artemis III / Mars Transit"
+    },
+    "Legal_Anchor": {
+        "DOI": "10.5281/zenodo.19640699",
+        "Hash": "518a1b8dc28f794414fb25f3910fda6842bf2ebd1c480ef29c59aa764984a108",
+        "Statute": "BMC \u00a7 8.32.190 / SB 1383"
+    },
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "PNL-OMEGA-INFINITY",
+    "weight_kDa": 18.42,
+    "stability": "100.00%",
+    "node": "93307",
+    "phase_lock": "180-degree-inversion",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

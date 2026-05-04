@@ -1,0 +1,4 @@
+chmod 755 htdocs/htdocs
+chmod 755 htdocs/htdocs/digital_twin_logs
+chmod 644 htdocs/htdocs/status.php
+chmod 644 htdocs/htdocs/.htaccess

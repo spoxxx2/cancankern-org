@@ -1,0 +1,21 @@
+{
+    "origin": "1501 Pearl St, Bakersfield, CA 93305",
+    "hardware_signature": "Fender Rumble 15-Amp",
+    "batch_metrics": {
+        "volume": "10 mL Aliquot",
+        "purity": "99.99996133%",
+        "shelf_life_clock": "T-minus 180 Days",
+        "market_valuation": "$13,500.00"
+    },
+    "verification_codes": {
+        "sequence": "GRKWFDV",
+        "mass": "907.04 Da",
+        "offset": "34.2ms"
+    },
+    "compliance": "BMC \u00a7 8.32.190 / SB 1383",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "node_id": "93307-Bakersfield",
+    "timestamp": "2026-04-18T11:44:50.253293",
+    "doi": "10.5281/zenodo.19640699",
+    "hash": "65289c868b3252f1a9e0224b435828d985a62934a32f0050ba1eacff4f501c2f",
+    "manifold": "7-Tone Polyphonic (Live-Yield)",
+    "compliance": [
+        "ACS",
+        "FDA",
+        "SB 1383",
+        "BMC 8.32.190"
+    ],
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

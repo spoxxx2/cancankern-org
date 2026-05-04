@@ -1,0 +1,19 @@
+{
+    "header": "CANCAN SOVEREIGN DATA CERTIFICATE",
+    "node": "93307-Bakersfield",
+    "authority": "Spoxxx2",
+    "timestamp": "2026-04-13T09:41:48.749876",
+    "assets_certified": {
+        "master_blueprint": "8447eaed355fd458174fe7cfd1da2f287828fa1f6d69537c076808d3abd45d1e",
+        "pillar_audit": "4271a997309d8d5025cea7581741de5d74851671ee894d37605eda92899917e3",
+        "capability_statement": "SOVEREIGN_CAPABILITY_V22",
+        "liability_shield": "SOVEREIGN_SHIELD_V23"
+    },
+    "legal_notice": "Certified under California SB 696 and BMC \u00a7 8.32.190 Standards",
+    "omni_seal": "35ac639dbfbab72ea0d7a96590f97bec23cc3c369fe27122735e9ac034bee5ea",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

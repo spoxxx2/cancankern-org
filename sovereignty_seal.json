@@ -1,0 +1,13 @@
+{
+    "DOI": "10.5281/zenodo.19640699",
+    "Sequence": "GRKWFDV",
+    "Purity": "99.1%",
+    "Signature": "518a1b8dc28f794414fb25f3910fda6842bf2ebd1c480ef29c59aa764984a108",
+    "Valuation_Phase": "Seed-IP ($1.5M - $3M)",
+    "Legal_Posture": "Sovereign / Defensive Publication Active",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

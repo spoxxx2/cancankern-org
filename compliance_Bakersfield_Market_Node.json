@@ -1,0 +1,15 @@
+{
+    "generator": "Bakersfield_Market_Node",
+    "date": "2026-03-24",
+    "node": "1501_PEARL_ST",
+    "waste_diverted_kg": 500,
+    "larval_conversion_rate": "18.5%",
+    "co2_offset_est": "225.0 kg",
+    "digital_twin_id": "DT-1774343341",
+    "compliance_status": "SECURE_SHIELD_ACTIVE",
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

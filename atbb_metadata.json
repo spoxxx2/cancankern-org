@@ -1,0 +1,18 @@
+{
+    "project": "ATBB-Bio-Battery",
+    "status": "Provisional Patent Pending",
+    "frequency_key": "650.12_Sawtooth_1.3k_19.5k",
+    "hardware_stack": "10x_1.842kDa_Wafers",
+    "chemical_vector": "Mg2+",
+    "thermal_event": "-3C_at_165min",
+    "application": [
+        "EV_Battery",
+        "Stadium_Lighting",
+        "Universal_Charger"
+    ],
+    "sovereign_boost": {
+        "v_const": "1588 m/s",
+        "rank": "400/100",
+        "phi": 1.618
+    }
+}

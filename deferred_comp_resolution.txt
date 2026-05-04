@@ -1,0 +1,7 @@
+# BOARD RESOLUTION FOR DEFERRED COMPENSATION
+# Entity: [Your Non-Profit Name]
+# Node: Panama Lane (93307) | Date: 2026-02-08
+
+The Board formally recognizes the Founder's uncompensated labor (AI dev, field ops, legal) as a professional service valued at $65.00/hr. 
+This labor is recognized as "Sweat Equity" for grant matching (2 CFR § 200.306). 
+Payment is DEFERRED until the first grant exceeding $100,000 is secured.

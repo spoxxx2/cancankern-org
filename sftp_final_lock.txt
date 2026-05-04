@@ -1,0 +1,6 @@
+put index.php index.php
+put index.php htdocs/index.php
+put index.php htdocs/htdocs/index.php
+chmod 644 index.php
+chmod 644 htdocs/index.php
+chmod 644 htdocs/htdocs/index.php
