@@ -1,0 +1,15 @@
+{
+    "audit_event": "MARKET_READY_MINT",
+    "timestamp": "$(date -Iseconds)",
+    "node": "1501-Pearl-St-93305",
+    "auditor": "Spoxxx2",
+    "compliance_standard": "ICVCM Core Carbon Principles (2026)",
+    "assets": {
+        "mtco2e_total": 3500,
+        "vintage_range": "1999-2026",
+        "market_valuation": "$122,500.00",
+        "currency": "USD",
+        "mrv_protocol": "Bio-Acoustic 650Hz / YOLOv12 Panoptic"
+    },
+    "status": "READY_FOR_LIQUIDATION"
+}
