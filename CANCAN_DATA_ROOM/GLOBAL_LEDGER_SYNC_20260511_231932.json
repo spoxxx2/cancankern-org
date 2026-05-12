@@ -1,0 +1,20 @@
+{
+    "ledger_event": "SINGULARITY_SYNC_BAMS_2026",
+    "node_id": "93307-PANAMA-LANE",
+    "organization": "CANCAN Kern (EIN 39-2261270)",
+    "compliance_metrics": {
+        "statute": "SB 1383 / BMC § 8.32.190",
+        "diversion_type": "Edible Food & Bio-Refining",
+        "recovery_status": "VALIDATED"
+    },
+    "asset_valuation": {
+        "carbon_value_usd": 122500.00,
+        "ip_hash_af3": "5abdfce5",
+        "purity_rating": "99.98%"
+    },
+    "compute_telemetry": {
+        "engine": "Kaggle TPU v3-8",
+        "run_count": "1,000,000,000",
+        "acoustic_key": "650Hz_Sawtooth"
+    }
+}

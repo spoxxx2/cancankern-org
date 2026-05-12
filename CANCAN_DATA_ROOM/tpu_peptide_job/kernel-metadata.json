@@ -1,0 +1,14 @@
+{
+  "id": "YOUR_KAGGLE_USERNAME/cancan-singularity-crucible",
+  "title": "CANCAN TPU Crucible - Sovereign Value Peptides",
+  "code_file": "tpu_crucible.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}
